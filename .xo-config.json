@@ -1,0 +1,11 @@
+{
+	"envs": [
+		"jest"
+	],
+	"rules": {
+		"quotes": [
+			"warn",
+			"double"
+		]
+	}
+}
