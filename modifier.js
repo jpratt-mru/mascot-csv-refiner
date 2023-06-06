@@ -6,12 +6,26 @@ class Modifier {
 
 	buildModifierList(fileContents) {
 		const splitContents = fileContents.split("\n");
-		this.modifiers = splitContents.map(line => line.replace(/\s+/g, "").split(">"));
+		this.modifiers = splitContents.map(line => line.replace(/\s*>\s*/g, ">").split(">"));
 	}
 
 	modify(markableCsv) {
-		const remaining = markableCsv.filter(entry => !entry.delete);
-		console.log(remaining);
+		const modifiedCsv = [];
+		for (const line of markableCsv) {
+			const modifiedEntry = {delete: line.delete};
+			modifiedEntry.content = this.applyModification(line);
+			modifiedCsv.push(modifiedEntry);
+		}
+
+		return modifiedCsv;
+	}
+
+	applyModification(line) {
+		for (const modificationTerms of this.modifiers) {
+			line = line.content.replaceAll(modificationTerms[0], modificationTerms[1]);
+		}
+
+		return line;
 	}
 }
 

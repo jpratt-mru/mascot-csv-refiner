@@ -1,0 +1,744 @@
+term,subject,course,section,title,capacity,dow,start,end,room,instructor
+202304,COMP,1103,001,Introduction to Computers,50,Wednesday,13:00,14:20,W322,TBA
+202304,COMP,1103,001,Introduction to Computers,50,Friday,13:00,14:20,W322,TBA
+202304,COMP,1103,002,Introduction to Computers,50,Tuesday,10:00,11:20,O226,TBA
+202304,COMP,1103,002,Introduction to Computers,50,Thursday,10:00,11:20,O226,TBA
+202304,COMP,1103,003,Introduction to Computers,50,Wednesday,08:30,09:50,O226,TBA
+202304,COMP,1103,003,Introduction to Computers,50,Friday,08:30,09:50,O226,TBA
+202304,COMP,1103,501,Introduction to Computers,25,Wednesday,14:30,15:20,E203,TBA
+202304,COMP,1103,502,Introduction to Computers,25,Wednesday,15:30,16:20,E203,TBA
+202304,COMP,1103,503,Introduction to Computers,25,Wednesday,09:00,09:50,B162,TBA
+202304,COMP,1103,504,Introduction to Computers,25,Wednesday,10:00,10:50,B162,TBA
+202304,COMP,1103,505,Introduction to Computers,25,Friday,11:30,12:20,B162,TBA
+202304,COMP,1103,506,Introduction to Computers,25,Friday,12:30,13:20,B162,TBA
+202304,COMP,1207,001,Introduction to Digital Technologies,35,Monday,11:30,12:50,E203,TBA
+202304,COMP,1207,001,Introduction to Digital Technologies,35,Wednesday,11:30,12:50,E203,TBA
+202304,COMP,1502,001,Programming II: Object Oriented Programming,30,Tuesday,14:30,15:50,B231,TBA
+202304,COMP,1502,001,Programming II: Object Oriented Programming,30,Thursday,14:30,15:50,B231,TBA
+202304,COMP,1502,401,Programming II: Object Oriented Programming,30,Tuesday,16:00,16:50,B162,TBA
+202304,COMP,1502,501,Programming II: Object Oriented Programming,30,Thursday,16:00,16:50,B162,TBA
+202304,COMP,1633,001,Introduction to Computer Science II,40,Tuesday,14:30,15:50,EC1055,TBA
+202304,COMP,1633,001,Introduction to Computer Science II,40,Thursday,14:30,15:50,EC1055,TBA
+202304,COMP,1633,401,Introduction to Computer Science II,20,Monday,13:00,13:50,B107,TBA
+202304,COMP,1633,401,Introduction to Computer Science II,20,Wednesday,13:00,13:50,B107,TBA
+202304,COMP,1633,402,Introduction to Computer Science II,20,Monday,12:00,12:50,B107,TBA
+202304,COMP,1633,402,Introduction to Computer Science II,20,Wednesday,12:00,12:50,B107,TBA
+202304,COMP,1701,001,Introduction to Problem Solving and Programming,40,Monday,11:30,12:50,E204,Charlotte Curtis
+202304,COMP,1701,001,Introduction to Problem Solving and Programming,40,Wednesday,11:30,12:50,E204,Charlotte Curtis
+202304,COMP,1701,002,Introduction to Problem Solving and Programming,40,Monday,10:00,11:20,EC1055,Eric Chalmers
+202304,COMP,1701,002,Introduction to Problem Solving and Programming,40,Wednesday,10:00,11:20,EC1055,Eric Chalmers
+202304,COMP,1701,003,Introduction to Problem Solving and Programming,40,Monday,10:00,11:20,E204,Alan Fedoruk
+202304,COMP,1701,003,Introduction to Problem Solving and Programming,40,Wednesday,10:00,11:20,E204,Alan Fedoruk
+202304,COMP,1701,004,Introduction to Problem Solving and Programming,40,Monday,08:30,09:50,E204,TBA
+202304,COMP,1701,004,Introduction to Problem Solving and Programming,40,Wednesday,08:30,09:50,E204,TBA
+202304,COMP,1701,005,Introduction to Problem Solving and Programming,40,Monday,11:30,12:50,EC1150,TBA
+202304,COMP,1701,005,Introduction to Problem Solving and Programming,40,Wednesday,11:30,12:50,EC1150,TBA
+202304,COMP,1701,006,Introduction to Problem Solving and Programming,40,Monday,10:00,11:20,EC1150,TBA
+202304,COMP,1701,006,Introduction to Problem Solving and Programming,40,Wednesday,10:00,11:20,EC1150,TBA
+202304,COMP,1701,401,Introduction to Problem Solving and Programming,20,Tuesday,10:30,11:20,B107,Charlotte Curtis
+202304,COMP,1701,402,Introduction to Problem Solving and Programming,20,Tuesday,11:30,12:20,B107,Charlotte Curtis
+202304,COMP,1701,403,Introduction to Problem Solving and Programming,20,Tuesday,09:30,10:20,B107,Eric Chalmers
+202304,COMP,1701,404,Introduction to Problem Solving and Programming,20,Tuesday,08:30,09:20,B107,Eric Chalmers
+202304,COMP,1701,405,Introduction to Problem Solving and Programming,20,Tuesday,12:30,13:20,B107,Alan Fedoruk
+202304,COMP,1701,406,Introduction to Problem Solving and Programming,20,Tuesday,13:30,14:20,B107,Alan Fedoruk
+202304,COMP,1701,407,Introduction to Problem Solving and Programming,20,Tuesday,15:30,16:20,B107,TBA
+202304,COMP,1701,408,Introduction to Problem Solving and Programming,20,Tuesday,14:30,15:20,B107,TBA
+202304,COMP,1701,409,Introduction to Problem Solving and Programming,20,Tuesday,17:30,18:20,B107,TBA
+202304,COMP,1701,410,Introduction to Problem Solving and Programming,20,Tuesday,16:30,17:20,B107,TBA
+202304,COMP,1701,411,Introduction to Problem Solving and Programming,20,Tuesday,09:30,10:20,B162,TBA
+202304,COMP,1701,412,Introduction to Problem Solving and Programming,20,Tuesday,10:30,11:20,B162,TBA
+202304,COMP,1701,501,Introduction to Problem Solving and Programming,20,Thursday,10:30,11:20,B107,Charlotte Curtis
+202304,COMP,1701,502,Introduction to Problem Solving and Programming,20,Thursday,11:30,12:20,B107,Charlotte Curtis
+202304,COMP,1701,503,Introduction to Problem Solving and Programming,20,Thursday,09:30,10:20,B107,Eric Chalmers
+202304,COMP,1701,504,Introduction to Problem Solving and Programming,20,Thursday,08:30,09:20,B107,Eric Chalmers
+202304,COMP,1701,505,Introduction to Problem Solving and Programming,20,Thursday,12:30,13:20,B107,Alan Fedoruk
+202304,COMP,1701,506,Introduction to Problem Solving and Programming,20,Thursday,13:30,14:20,B107,Alan Fedoruk
+202304,COMP,1701,507,Introduction to Problem Solving and Programming,20,Thursday,15:30,16:20,B107,TBA
+202304,COMP,1701,508,Introduction to Problem Solving and Programming,20,Thursday,14:30,15:20,B107,TBA
+202304,COMP,1701,509,Introduction to Problem Solving and Programming,20,Thursday,17:30,18:20,B107,TBA
+202304,COMP,1701,510,Introduction to Problem Solving and Programming,20,Thursday,16:30,17:20,B107,TBA
+202304,COMP,1701,511,Introduction to Problem Solving and Programming,20,Thursday,09:30,10:20,B162,TBA
+202304,COMP,1701,512,Introduction to Problem Solving and Programming,20,Thursday,10:30,11:20,B162,TBA
+202304,COMP,2001,001,Computer-Based Problem Solving for the Sciences,50,Monday,08:30,09:50,EA2031,Patrick Perri
+202304,COMP,2001,001,Computer-Based Problem Solving for the Sciences,50,Wednesday,08:30,09:50,EA2031,Patrick Perri
+202304,COMP,2001,002,Computer-Based Problem Solving for the Sciences,50,Monday,10:00,11:20,EA1024,Michael Uzoka
+202304,COMP,2001,002,Computer-Based Problem Solving for the Sciences,50,Wednesday,10:00,11:20,EA1024,Michael Uzoka
+202304,COMP,2001,401,Computer-Based Problem Solving for the Sciences,25,Tuesday,14:00,14:50,B162,Patrick Perri
+202304,COMP,2001,401,Computer-Based Problem Solving for the Sciences,25,Thursday,14:00,14:50,B162,Patrick Perri
+202304,COMP,2001,402,Computer-Based Problem Solving for the Sciences,25,Tuesday,13:00,13:50,B162,Patrick Perri
+202304,COMP,2001,402,Computer-Based Problem Solving for the Sciences,25,Thursday,13:00,13:50,B162,Patrick Perri
+202304,COMP,2001,403,Computer-Based Problem Solving for the Sciences,25,Monday,12:30,13:20,B162,Michael Uzoka
+202304,COMP,2001,403,Computer-Based Problem Solving for the Sciences,25,Wednesday,12:30,13:20,B162,Michael Uzoka
+202304,COMP,2001,404,Computer-Based Problem Solving for the Sciences,25,Monday,13:30,14:20,B162,Michael Uzoka
+202304,COMP,2001,404,Computer-Based Problem Solving for the Sciences,25,Wednesday,13:30,14:20,B162,Michael Uzoka
+202304,COMP,2008,001,Scientific Computing I: Modeling and Simulation,48,Tuesday,08:30,09:50,EA1051,Patrick Perri
+202304,COMP,2008,001,Scientific Computing I: Modeling and Simulation,48,Thursday,08:30,09:50,EA1051,Patrick Perri
+202304,COMP,2008,401,Scientific Computing I: Modeling and Simulation,24,Friday,08:30,09:20,E203,Patrick Perri
+202304,COMP,2008,402,Scientific Computing I: Modeling and Simulation,24,Friday,09:30,10:20,E203,Patrick Perri
+202304,COMP,2503,001,Programming III: Data Structures,40,Wednesday,11:30,12:50,B222,Maryam Elahi
+202304,COMP,2503,001,Programming III: Data Structures,40,Friday,11:30,12:50,B222,Maryam Elahi
+202304,COMP,2503,002,Programming III: Data Structures,40,Monday,16:00,17:20,EC1065,TBA
+202304,COMP,2503,002,Programming III: Data Structures,40,Wednesday,16:00,17:20,EC1065,TBA
+202304,COMP,2503,401,Programming III: Data Structures,20,Tuesday,11:00,11:50,E203,Maryam Elahi
+202304,COMP,2503,402,Programming III: Data Structures,20,Tuesday,12:00,12:50,E203,Maryam Elahi
+202304,COMP,2503,403,Programming III: Data Structures,20,Thursday,14:30,15:20,E203,TBA
+202304,COMP,2503,404,Programming III: Data Structures,20,Thursday,15:30,16:20,E203,TBA
+202304,COMP,2511,001,Web I: Client Development,40,Tuesday,10:00,11:20,B220,TBA
+202304,COMP,2511,001,Web I: Client Development,40,Thursday,10:00,11:20,B220,TBA
+202304,COMP,2511,501,Web I: Client Development,20,Wednesday,10:00,10:50,B107,TBA
+202304,COMP,2511,502,Web I: Client Development,20,Wednesday,11:00,11:50,B107,TBA
+202304,COMP,2521,001,Database I: Data Modeling and Query Languages,40,Tuesday,13:00,14:20,E204,TBA
+202304,COMP,2521,001,Database I: Data Modeling and Query Languages,40,Thursday,13:00,14:20,E204,TBA
+202304,COMP,2521,002,Database I: Data Modeling and Query Languages,40,Monday,14:30,15:50,EC1150,Said Baadel
+202304,COMP,2521,002,Database I: Data Modeling and Query Languages,40,Wednesday,14:30,15:50,EC1150,Said Baadel
+202304,COMP,2521,401,Database I: Data Modeling and Query Languages,20,Wednesday,13:00,13:50,E141,TBA
+202304,COMP,2521,402,Database I: Data Modeling and Query Languages,20,Monday,08:30,09:20,B107,TBA
+202304,COMP,2521,403,Database I: Data Modeling and Query Languages,20,Tuesday,15:00,15:50,B162,Said Baadel
+202304,COMP,2521,404,Database I: Data Modeling and Query Languages,20,Monday,16:00,16:50,B162,Said Baadel
+202304,COMP,2531,001,Computer Architecture and Operating Systems,40,Tuesday,08:30,09:50,EC1065,Namrata Khemka-Dolan
+202304,COMP,2531,001,Computer Architecture and Operating Systems,40,Thursday,08:30,09:50,EC1065,Namrata Khemka-Dolan
+202304,COMP,2531,002,Computer Architecture and Operating Systems,40,Tuesday,14:30,15:50,B222,TBA
+202304,COMP,2531,002,Computer Architecture and Operating Systems,40,Thursday,14:30,15:50,B222,TBA
+202304,COMP,2531,501,Computer Architecture and Operating Systems,20,Friday,08:30,09:20,B162,Namrata Khemka-Dolan
+202304,COMP,2531,502,Computer Architecture and Operating Systems,20,Friday,09:30,10:20,B162,Namrata Khemka-Dolan
+202304,COMP,2531,503,Computer Architecture and Operating Systems,20,Wednesday,14:30,15:20,B162,TBA
+202304,COMP,2531,504,Computer Architecture and Operating Systems,20,Wednesday,15:30,16:20,B162,TBA
+202304,COMP,2541,001,Systems Analysis,40,Monday,10:00,11:20,B222,TBA
+202304,COMP,2541,001,Systems Analysis,40,Wednesday,10:00,11:20,B222,TBA
+202304,COMP,2541,401,Systems Analysis,20,Thursday,10:00,10:50,E203,TBA
+202304,COMP,2541,402,Systems Analysis,20,Thursday,11:00,11:50,E203,TBA
+202304,COMP,2613,001,Introduction to Computability,30,Tuesday,16:00,17:20,EA2070,Charles Hepler
+202304,COMP,2613,001,Introduction to Computability,30,Thursday,16:00,17:20,EA2070,Charles Hepler
+202304,COMP,2613,401,Introduction to Computability,30,Friday,14:30,16:20,E131,Charles Hepler
+202304,COMP,2631,001,Information Structures I,30,Tuesday,10:00,11:20,E131,TBA
+202304,COMP,2631,001,Information Structures I,30,Thursday,10:00,11:20,E131,TBA
+202304,COMP,2631,002,Information Structures I,30,Monday,14:30,15:50,EA1050,TBA
+202304,COMP,2631,002,Information Structures I,30,Wednesday,14:30,15:50,EA1050,TBA
+202304,COMP,2631,401,Information Structures I,30,Wednesday,16:30,18:20,E203,TBA
+202304,COMP,2631,402,Information Structures I,30,Tuesday,16:30,18:20,E203,TBA
+202304,COMP,2655,001,Computing Machinery I,30,Tuesday,11:30,12:20,E131,TBA
+202304,COMP,2655,001,Computing Machinery I,30,Thursday,11:30,12:20,E131,TBA
+202304,COMP,2655,001,Computing Machinery I,30,Friday,11:30,12:20,E131,TBA
+202304,COMP,2655,002,Computing Machinery I,30,Tuesday,08:30,09:20,E206,Paul Pospisil
+202304,COMP,2655,002,Computing Machinery I,30,Thursday,08:30,09:20,E206,Paul Pospisil
+202304,COMP,2655,002,Computing Machinery I,30,Friday,08:30,09:20,E206,Paul Pospisil
+202304,COMP,2655,401,Computing Machinery I,30,Monday,09:30,10:20,E203,TBA
+202304,COMP,2655,401,Computing Machinery I,30,Wednesday,09:30,10:20,E203,TBA
+202304,COMP,2655,402,Computing Machinery I,30,Monday,08:30,09:20,E203,Paul Pospisil
+202304,COMP,2655,402,Computing Machinery I,30,Wednesday,08:30,09:20,E203,Paul Pospisil
+202304,COMP,3309,001,Information Technology and Society,40,Tuesday,16:00,17:20,T225,TBA
+202304,COMP,3309,001,Information Technology and Society,40,Thursday,16:00,17:20,T225,TBA
+202304,COMP,3504,001,Programming IV: Software Engineering,40,Monday,16:00,17:20,E147,Yasaman Amannejad
+202304,COMP,3504,001,Programming IV: Software Engineering,40,Wednesday,16:00,17:20,E147,Yasaman Amannejad
+202304,COMP,3504,401,Programming IV: Software Engineering,20,Monday,17:30,18:20,E147,Yasaman Amannejad
+202304,COMP,3504,402,Programming IV: Software Engineering,20,Wednesday,17:30,18:20,E147,Yasaman Amannejad
+202304,COMP,3512,001,Web II: Web Application Development,44,Monday,11:30,12:50,B220,Randy Connolly
+202304,COMP,3512,001,Web II: Web Application Development,44,Wednesday,11:30,12:50,B220,Randy Connolly
+202304,COMP,3512,401,Web II: Web Application Development,22,Thursday,11:30,12:20,E141,Randy Connolly
+202304,COMP,3512,402,Web II: Web Application Development,22,Thursday,12:30,13:20,E141,Randy Connolly
+202304,COMP,3532,001,System Administration and Maintenance,44,Monday,10:00,11:20,B220,Mingwei Gong
+202304,COMP,3532,001,System Administration and Maintenance,44,Wednesday,10:00,11:20,B220,Mingwei Gong
+202304,COMP,3532,501,System Administration and Maintenance,22,Tuesday,10:00,10:50,E147,Mingwei Gong
+202304,COMP,3532,502,System Administration and Maintenance,22,Tuesday,11:00,11:50,E147,Mingwei Gong
+202304,COMP,3533,001,Network Infrastructure and Security,44,Wednesday,14:30,15:50,E103,Maryam Elahi
+202304,COMP,3533,001,Network Infrastructure and Security,44,Friday,14:30,15:50,E103,Maryam Elahi
+202304,COMP,3533,501,Network Infrastructure and Security,22,Thursday,14:30,15:20,EB1015,Maryam Elahi
+202304,COMP,3533,502,Network Infrastructure and Security,22,Thursday,13:30,14:20,E151,Maryam Elahi
+202304,COMP,3553,001,Human-Computer Interaction,40,Monday,13:00,14:20,EC1075,Namrata Khemka-Dolan
+202304,COMP,3553,001,Human-Computer Interaction,40,Wednesday,13:00,14:20,EC1075,Namrata Khemka-Dolan
+202304,COMP,3553,401,Human-Computer Interaction,20,Tuesday,13:00,13:50,E203,Namrata Khemka-Dolan
+202304,COMP,3553,402,Human-Computer Interaction,20,Tuesday,14:00,14:50,E203,Namrata Khemka-Dolan
+202304,COMP,3612,001,Web Development for Computer Science,30,Monday,08:30,09:50,EA1048,Randy Connolly
+202304,COMP,3612,001,Web Development for Computer Science,30,Wednesday,08:30,09:50,EA1048,Randy Connolly
+202304,COMP,3612,501,Web Development for Computer Science,30,Tuesday,08:30,09:20,B162,Randy Connolly
+202304,COMP,3625,001,Artificial Intelligence,25,Tuesday,14:30,15:50,E151,TBA
+202304,COMP,3625,001,Artificial Intelligence,25,Thursday,14:30,15:50,E151,TBA
+202304,COMP,3625,401,Artificial Intelligence,25,Friday,11:30,12:20,E203,TBA
+202304,COMP,3659,001,Operating Systems,36,Wednesday,11:30,12:50,Y316,Marc Schroeder
+202304,COMP,3659,001,Operating Systems,36,Friday,11:30,12:50,Y316,Marc Schroeder
+202304,COMP,3659,501,Operating Systems,36,Thursday,12:30,14:20,E203,Marc Schroeder
+202304,COMP,4535,001,Computer Security,30,Monday,10:00,11:20,T141,Khosro Salmani
+202304,COMP,4535,001,Computer Security,30,Wednesday,10:00,11:20,T141,Khosro Salmani
+202304,COMP,4535,501,Computer Security,30,Monday,11:30,12:20,B162,Khosro Salmani
+202304,COMP,4543,001,Project Management and Quality Assurance,30,Tuesday,18:00,20:50,T130,TBA
+202304,COMP,4545,001,Information Systems Organization,30,Wednesday,18:00,20:50,T230,TBA
+202304,COMP,4555,001,Games Development,30,Monday,14:30,15:50,B222,Charles Hepler
+202304,COMP,4555,001,Games Development,30,Wednesday,14:30,15:50,B222,Charles Hepler
+202304,COMP,4555,401,Games Development,30,Tuesday,12:00,12:50,B162,Charles Hepler
+202304,GNED,1101,001,Scientific and Mathematical Literacy for the Modern World,40,Monday,10:00,11:20,T239,Mandana Sobhanzadeh
+202304,GNED,1101,001,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,10:00,11:20,T239,Mandana Sobhanzadeh
+202304,GNED,1101,002,Scientific and Mathematical Literacy for the Modern World,40,Monday,11:30,12:50,T137,Nick Strzalkowski
+202304,GNED,1101,002,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,11:30,12:50,T137,Nick Strzalkowski
+202304,GNED,1101,003,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,16:00,17:20,T137,TBA
+202304,GNED,1101,003,Scientific and Mathematical Literacy for the Modern World,40,Thursday,16:00,17:20,T137,TBA
+202304,GNED,1101,004,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,14:30,15:50,T239,TBA
+202304,GNED,1101,004,Scientific and Mathematical Literacy for the Modern World,40,Thursday,14:30,15:50,T239,TBA
+202304,GNED,1101,005,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,10:00,11:20,T239,Mandana Sobhanzadeh
+202304,GNED,1101,005,Scientific and Mathematical Literacy for the Modern World,40,Thursday,10:00,11:20,T239,Mandana Sobhanzadeh
+202304,GNED,1101,006,Scientific and Mathematical Literacy for the Modern World,40,Monday,16:00,17:20,T239,Nader Dehghany Mohammad-Abady
+202304,GNED,1101,006,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,16:00,17:20,T239,Nader Dehghany Mohammad-Abady
+202304,GNED,1101,007,Scientific and Mathematical Literacy for the Modern World,40,Monday,13:00,14:20,T137,Nader Dehghany Mohammad-Abady
+202304,GNED,1101,007,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,13:00,14:20,T137,Nader Dehghany Mohammad-Abady
+202304,GNED,1101,008,Scientific and Mathematical Literacy for the Modern World,40,Monday,14:30,15:50,T239,TBA
+202304,GNED,1101,008,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,14:30,15:50,T239,TBA
+202304,GNED,1101,009,Scientific and Mathematical Literacy for the Modern World,40,Thursday,13:00,15:50,T137,TBA
+202304,GNED,1101,010,Scientific and Mathematical Literacy for the Modern World,40,Monday,16:00,17:20,T219,TBA
+202304,GNED,1101,010,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,16:00,17:20,T219,TBA
+202304,GNED,1101,011,Scientific and Mathematical Literacy for the Modern World,40,Monday,11:30,12:50,T239,Nader Dehghany Mohammad-Abady
+202304,GNED,1101,011,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,11:30,12:50,T239,Nader Dehghany Mohammad-Abady
+202304,GNED,1101,012,Scientific and Mathematical Literacy for the Modern World,40,Monday,08:30,09:50,T137,Mandana Sobhanzadeh
+202304,GNED,1101,012,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,08:30,09:50,T137,Mandana Sobhanzadeh
+202304,GNED,1101,013,Scientific and Mathematical Literacy for the Modern World,38,Monday,13:00,14:20,T239,TBA
+202304,GNED,1101,013,Scientific and Mathematical Literacy for the Modern World,38,Wednesday,13:00,14:20,T239,TBA
+202304,GNED,1101,014,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,11:30,12:50,T239,TBA
+202304,GNED,1101,014,Scientific and Mathematical Literacy for the Modern World,40,Thursday,11:30,12:50,T239,TBA
+202304,GNED,1101,015,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,13:00,14:20,T239,TBA
+202304,GNED,1101,015,Scientific and Mathematical Literacy for the Modern World,40,Thursday,13:00,14:20,T239,TBA
+202304,GNED,1101,016,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,11:30,12:50,T219,TBA
+202304,GNED,1101,016,Scientific and Mathematical Literacy for the Modern World,40,Thursday,11:30,12:50,T219,TBA
+202304,GNED,1101,017,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,08:30,09:50,T239,Mandana Sobhanzadeh
+202304,GNED,1101,017,Scientific and Mathematical Literacy for the Modern World,40,Thursday,08:30,09:50,T239,Mandana Sobhanzadeh
+202304,GNED,1101,018,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,10:00,11:20,T219,TBA
+202304,GNED,1101,018,Scientific and Mathematical Literacy for the Modern World,40,Thursday,10:00,11:20,T219,TBA
+202304,GNED,1101,019,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,08:30,09:50,T219,TBA
+202304,GNED,1101,019,Scientific and Mathematical Literacy for the Modern World,40,Thursday,08:30,09:50,T219,TBA
+202304,GNED,1101,020,Scientific and Mathematical Literacy for the Modern World,40,Monday,14:30,15:50,T137,TBA
+202304,GNED,1101,020,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,14:30,15:50,T137,TBA
+202304,GNED,1101,021,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,11:30,12:50,T137,TBA
+202304,GNED,1101,021,Scientific and Mathematical Literacy for the Modern World,40,Thursday,11:30,12:50,T137,TBA
+202304,GNED,1101,022,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,10:00,11:20,T137,TBA
+202304,GNED,1101,022,Scientific and Mathematical Literacy for the Modern World,40,Thursday,10:00,11:20,T137,TBA
+202304,GNED,1101,023,Scientific and Mathematical Literacy for the Modern World,40,Monday,13:00,14:20,T219,TBA
+202304,GNED,1101,023,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,13:00,14:20,T219,TBA
+202304,GNED,1101,024,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,08:30,09:50,T137,TBA
+202304,GNED,1101,024,Scientific and Mathematical Literacy for the Modern World,40,Thursday,08:30,09:50,T137,TBA
+202304,GNED,1101,025,Scientific and Mathematical Literacy for the Modern World,40,Friday,08:30,11:20,EC1075,TBA
+202304,GNED,1101,026,Scientific and Mathematical Literacy for the Modern World,40,Monday,14:30,15:50,T219,TBA
+202304,GNED,1101,026,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,14:30,15:50,T219,TBA
+202304,GNED,1101,027,Scientific and Mathematical Literacy for the Modern World,40,Monday,10:00,11:20,T137,TBA
+202304,GNED,1101,027,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,10:00,11:20,T137,TBA
+202304,GNED,1101,028,Scientific and Mathematical Literacy for the Modern World,40,Monday,18:00,20:50,T239,TBA
+202304,GNED,1101,029,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,18:00,20:50,T137,TBA
+202304,GNED,1101,030,Scientific and Mathematical Literacy for the Modern World,40,Monday,10:00,11:20,T219,TBA
+202304,GNED,1101,030,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,10:00,11:20,T219,TBA
+202304,GNED,1101,031,Scientific and Mathematical Literacy for the Modern World,40,Monday,16:00,17:20,T137,TBA
+202304,GNED,1101,031,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,16:00,17:20,T137,TBA
+202304,GNED,1101,032,Scientific and Mathematical Literacy for the Modern World,40,Monday,08:30,09:50,T239,TBA
+202304,GNED,1101,032,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,08:30,09:50,T239,TBA
+202304,GNED,1101,033,Scientific and Mathematical Literacy for the Modern World,40,Monday,11:30,12:50,T219,TBA
+202304,GNED,1101,033,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,11:30,12:50,T219,TBA
+202304,GNED,1101,034,Scientific and Mathematical Literacy for the Modern World,40,Monday,08:30,09:50,T219,TBA
+202304,GNED,1101,034,Scientific and Mathematical Literacy for the Modern World,40,Wednesday,08:30,09:50,T219,TBA
+202304,GNED,1101,035,Scientific and Mathematical Literacy for the Modern World,40,Tuesday,16:00,17:20,T239,TBA
+202304,GNED,1101,035,Scientific and Mathematical Literacy for the Modern World,40,Thursday,16:00,17:20,T239,TBA
+202304,GNED,1101,036,Scientific and Mathematical Literacy for the Modern World,40,Friday,13:00,15:50,EA1022,TBA
+202304,GNED,1101,065,Scientific and Mathematical Literacy for the Modern World,2,Monday,13:00,14:20,T239,TBA
+202304,GNED,1101,065,Scientific and Mathematical Literacy for the Modern World,2,Wednesday,13:00,14:20,T239,TBA
+202304,GNED,1103,001,Innovation,40,Tuesday,16:00,17:20,T235,TBA
+202304,GNED,1103,001,Innovation,40,Thursday,16:00,17:20,T235,TBA
+202304,GNED,1103,002,Innovation,40,Monday,11:30,12:50,EA1067,Charles Hepler
+202304,GNED,1103,002,Innovation,40,Wednesday,11:30,12:50,EA1067,Charles Hepler
+202304,GNED,1103,003,Innovation,40,Tuesday,11:30,12:50,EA2057,TBA
+202304,GNED,1103,003,Innovation,40,Thursday,11:30,12:50,EA2057,TBA
+202304,GNED,1103,004,Innovation,40,Tuesday,18:00,20:50,T235,TBA
+202304,GNED,1103,005,Innovation,40,Tuesday,10:00,11:20,EA1004,TBA
+202304,GNED,1103,005,Innovation,40,Thursday,10:00,11:20,EA1004,TBA
+202304,GNED,1103,006,Innovation,40,Tuesday,08:30,09:50,EA1004,TBA
+202304,GNED,1103,006,Innovation,40,Thursday,08:30,09:50,EA1004,TBA
+202304,GNED,1103,007,Innovation,40,Monday,11:30,12:50,T235,TBA
+202304,GNED,1103,007,Innovation,40,Wednesday,11:30,12:50,T235,TBA
+202304,GNED,1103,008,Innovation,40,Monday,13:00,14:20,X303,TBA
+202304,GNED,1103,008,Innovation,40,Wednesday,13:00,14:20,X303,TBA
+202304,GNED,1103,009,Innovation,40,Monday,16:00,17:20,EA1004,TBA
+202304,GNED,1103,009,Innovation,40,Wednesday,16:00,17:20,EA1004,TBA
+202304,GNED,1103,010,Innovation,40,Monday,14:30,15:50,X303,TBA
+202304,GNED,1103,010,Innovation,40,Wednesday,14:30,15:50,X303,TBA
+202304,GNED,1103,011,Innovation,40,Tuesday,10:00,11:20,EA1014,TBA
+202304,GNED,1103,011,Innovation,40,Thursday,10:00,11:20,EA1014,TBA
+202304,GNED,1103,012,Innovation,40,Monday,10:00,11:20,EA2057,TBA
+202304,GNED,1103,012,Innovation,40,Wednesday,10:00,11:20,EA2057,TBA
+202304,GNED,1103,013,Innovation,40,Wednesday,18:00,20:50,EA1022,TBA
+202304,GNED,1201,001,Aesthetic Experience and Ideas,40,Tuesday,13:00,14:20,EA2057,TBA
+202304,GNED,1201,001,Aesthetic Experience and Ideas,40,Thursday,13:00,14:20,EA2057,TBA
+202304,GNED,1201,002,Aesthetic Experience and Ideas,38,Monday,11:30,12:50,EA1004,TBA
+202304,GNED,1201,002,Aesthetic Experience and Ideas,38,Wednesday,11:30,12:50,EA1004,TBA
+202304,GNED,1201,003,Aesthetic Experience and Ideas,40,Tuesday,13:00,14:20,EA1014,Tracy Derynck
+202304,GNED,1201,003,Aesthetic Experience and Ideas,40,Thursday,13:00,14:20,EA1014,Tracy Derynck
+202304,GNED,1201,004,Aesthetic Experience and Ideas,40,Monday,13:00,14:20,EA1004,TBA
+202304,GNED,1201,004,Aesthetic Experience and Ideas,40,Wednesday,13:00,14:20,EA1004,TBA
+202304,GNED,1201,005,Aesthetic Experience and Ideas,40,Tuesday,16:00,17:20,X303,Tracy Derynck
+202304,GNED,1201,005,Aesthetic Experience and Ideas,40,Thursday,16:00,17:20,X303,Tracy Derynck
+202304,GNED,1201,006,Aesthetic Experience and Ideas,40,Tuesday,11:30,12:50,EA1014,TBA
+202304,GNED,1201,006,Aesthetic Experience and Ideas,40,Thursday,11:30,12:50,EA1014,TBA
+202304,GNED,1201,007,Aesthetic Experience and Ideas,40,Monday,16:00,17:20,X303,TBA
+202304,GNED,1201,007,Aesthetic Experience and Ideas,40,Wednesday,16:00,17:20,X303,TBA
+202304,GNED,1201,008,Aesthetic Experience and Ideas,40,Tuesday,10:00,11:20,EA2057,TBA
+202304,GNED,1201,008,Aesthetic Experience and Ideas,40,Thursday,10:00,11:20,EA2057,TBA
+202304,GNED,1201,009,Aesthetic Experience and Ideas,40,Tuesday,08:30,09:50,EA2057,TBA
+202304,GNED,1201,009,Aesthetic Experience and Ideas,40,Thursday,08:30,09:50,EA2057,TBA
+202304,GNED,1201,010,Aesthetic Experience and Ideas,40,Monday,11:30,12:50,X303,Jim Brenan
+202304,GNED,1201,010,Aesthetic Experience and Ideas,40,Wednesday,11:30,12:50,X303,Jim Brenan
+202304,GNED,1201,011,Aesthetic Experience and Ideas,40,Friday,11:30,14:20,T235,TBA
+202304,GNED,1201,012,Aesthetic Experience and Ideas,40,Monday,14:30,15:50,EA1004,Jim Brenan
+202304,GNED,1201,012,Aesthetic Experience and Ideas,40,Wednesday,14:30,15:50,EA1004,Jim Brenan
+202304,GNED,1201,013,Aesthetic Experience and Ideas,40,Monday,10:00,11:20,EA1004,Jim Brenan
+202304,GNED,1201,013,Aesthetic Experience and Ideas,40,Wednesday,10:00,11:20,EA1004,Jim Brenan
+202304,GNED,1201,014,Aesthetic Experience and Ideas,40,Monday,08:30,09:50,X303,TBA
+202304,GNED,1201,014,Aesthetic Experience and Ideas,40,Wednesday,08:30,09:50,X303,TBA
+202304,GNED,1201,015,Aesthetic Experience and Ideas,40,Tuesday,14:30,15:50,EA1014,TBA
+202304,GNED,1201,015,Aesthetic Experience and Ideas,40,Thursday,14:30,15:50,EA1014,TBA
+202304,GNED,1201,016,Aesthetic Experience and Ideas,40,Monday,14:30,15:50,T241,TBA
+202304,GNED,1201,016,Aesthetic Experience and Ideas,40,Wednesday,14:30,15:50,T241,TBA
+202304,GNED,1201,065,Aesthetic Experience and Ideas,2,Monday,11:30,12:50,EA1004,TBA
+202304,GNED,1201,065,Aesthetic Experience and Ideas,2,Wednesday,11:30,12:50,EA1004,TBA
+202304,GNED,1202,001,Texts and Ideas,40,Monday,08:30,11:20,T235,TBA
+202304,GNED,1202,002,Texts and Ideas,40,Monday,10:00,11:20,T133,Cynthia Gallop
+202304,GNED,1202,002,Texts and Ideas,40,Wednesday,10:00,11:20,T133,Cynthia Gallop
+202304,GNED,1202,003,Texts and Ideas,40,Monday,13:00,14:20,T241,David Ohreen
+202304,GNED,1202,003,Texts and Ideas,40,Wednesday,13:00,14:20,T241,David Ohreen
+202304,GNED,1202,004,Texts and Ideas,40,Monday,14:30,15:50,T133,Cynthia Gallop
+202304,GNED,1202,004,Texts and Ideas,40,Wednesday,14:30,15:50,T133,Cynthia Gallop
+202304,GNED,1202,005,Texts and Ideas,40,Monday,10:00,11:20,EC1130,Glen Ryland
+202304,GNED,1202,005,Texts and Ideas,40,Wednesday,10:00,11:20,EC1130,Glen Ryland
+202304,GNED,1202,006,Texts and Ideas,40,Monday,13:00,14:20,T133,Cynthia Gallop
+202304,GNED,1202,006,Texts and Ideas,40,Wednesday,13:00,14:20,T133,Cynthia Gallop
+202304,GNED,1202,007,Texts and Ideas,40,Monday,11:30,12:50,T241,Tracy Derynck
+202304,GNED,1202,007,Texts and Ideas,40,Wednesday,11:30,12:50,T241,Tracy Derynck
+202304,GNED,1202,008,Texts and Ideas,40,Monday,16:00,17:20,T241,TBA
+202304,GNED,1202,008,Texts and Ideas,40,Wednesday,16:00,17:20,T241,TBA
+202304,GNED,1202,009,Texts and Ideas,40,Tuesday,14:30,15:50,E204,Allison Dube
+202304,GNED,1202,009,Texts and Ideas,40,Thursday,14:30,15:50,E204,Allison Dube
+202304,GNED,1202,010,Texts and Ideas,40,Tuesday,08:30,09:50,T241,TBA
+202304,GNED,1202,010,Texts and Ideas,40,Thursday,08:30,09:50,T241,TBA
+202304,GNED,1202,011,Texts and Ideas,40,Tuesday,11:30,12:50,T235,TBA
+202304,GNED,1202,011,Texts and Ideas,40,Thursday,11:30,12:50,T235,TBA
+202304,GNED,1202,012,Texts and Ideas,40,Tuesday,13:00,14:20,T241,Tania Mehta
+202304,GNED,1202,012,Texts and Ideas,40,Thursday,13:00,14:20,T241,Tania Mehta
+202304,GNED,1202,013,Texts and Ideas,40,Monday,11:30,12:50,EA2057,Allison Dube
+202304,GNED,1202,013,Texts and Ideas,40,Wednesday,11:30,12:50,EA2057,Allison Dube
+202304,GNED,1202,014,Texts and Ideas,40,Friday,10:00,12:50,EA1026,TBA
+202304,GNED,1202,015,Texts and Ideas,40,Tuesday,14:30,15:50,W227,TBA
+202304,GNED,1202,015,Texts and Ideas,40,Thursday,14:30,15:50,W227,TBA
+202304,GNED,1203,001,Nature and Ideas,40,Monday,10:00,11:20,EA1067,Guy Obrecht
+202304,GNED,1203,001,Nature and Ideas,40,Wednesday,10:00,11:20,EA1067,Guy Obrecht
+202304,GNED,1203,002,Nature and Ideas,40,Tuesday,16:00,17:20,T133,TBA
+202304,GNED,1203,002,Nature and Ideas,40,Thursday,16:00,17:20,T133,TBA
+202304,GNED,1203,003,Nature and Ideas,40,Tuesday,10:00,11:20,T241,Katja Pettinen
+202304,GNED,1203,003,Nature and Ideas,40,Thursday,10:00,11:20,T241,Katja Pettinen
+202304,GNED,1203,004,Nature and Ideas,40,Tuesday,14:30,15:50,T133,Michael Sauve
+202304,GNED,1203,004,Nature and Ideas,40,Thursday,14:30,15:50,T133,Michael Sauve
+202304,GNED,1203,005,Nature and Ideas,40,Tuesday,11:30,12:50,EA1004,Katja Pettinen
+202304,GNED,1203,005,Nature and Ideas,40,Thursday,11:30,12:50,EA1004,Katja Pettinen
+202304,GNED,1203,006,Nature and Ideas,40,Tuesday,10:00,11:20,T133,Guy Obrecht
+202304,GNED,1203,006,Nature and Ideas,40,Thursday,10:00,11:20,T133,Guy Obrecht
+202304,GNED,1203,007,Nature and Ideas,40,Tuesday,14:30,15:50,T241,TBA
+202304,GNED,1203,007,Nature and Ideas,40,Thursday,14:30,15:50,T241,TBA
+202304,GNED,1203,008,Nature and Ideas,40,Monday,16:00,17:20,T133,TBA
+202304,GNED,1203,008,Nature and Ideas,40,Wednesday,16:00,17:20,T133,TBA
+202304,GNED,1203,009,Nature and Ideas,40,Tuesday,13:00,14:20,T133,Guy Obrecht
+202304,GNED,1203,009,Nature and Ideas,40,Thursday,13:00,14:20,T133,Guy Obrecht
+202304,GNED,1203,010,Nature and Ideas,40,Tuesday,08:30,09:50,T133,TBA
+202304,GNED,1203,010,Nature and Ideas,40,Thursday,08:30,09:50,T133,TBA
+202304,GNED,1203,011,Nature and Ideas,40,Monday,11:30,12:50,T133,TBA
+202304,GNED,1203,011,Nature and Ideas,40,Wednesday,11:30,12:50,T133,TBA
+202304,GNED,1203,012,Nature and Ideas,40,Monday,08:30,09:50,T133,TBA
+202304,GNED,1203,012,Nature and Ideas,40,Wednesday,08:30,09:50,T133,TBA
+202304,GNED,1203,013,Nature and Ideas,40,Friday,10:00,12:50,EA1067,Angela Waldie
+202304,GNED,1301,001,Citizenship Without Borders,37,Wednesday,10:00,11:20,Y318,TBA
+202304,GNED,1301,001,Citizenship Without Borders,37,Friday,10:00,11:20,Y318,TBA
+202304,GNED,1301,002,Citizenship Without Borders,40,Monday,10:00,11:20,X303,Roberta Lexier
+202304,GNED,1301,002,Citizenship Without Borders,40,Wednesday,10:00,11:20,X303,Roberta Lexier
+202304,GNED,1301,003,Citizenship Without Borders,40,Tuesday,14:30,15:50,X303,Nina Morgan
+202304,GNED,1301,003,Citizenship Without Borders,40,Thursday,14:30,15:50,X303,Nina Morgan
+202304,GNED,1301,004,Citizenship Without Borders,40,Tuesday,14:30,15:50,T235,Lorenzo Petrin
+202304,GNED,1301,004,Citizenship Without Borders,40,Thursday,14:30,15:50,T235,Lorenzo Petrin
+202304,GNED,1301,005,Citizenship Without Borders,40,Monday,08:30,09:50,EA1004,TBA
+202304,GNED,1301,005,Citizenship Without Borders,40,Wednesday,08:30,09:50,EA1004,TBA
+202304,GNED,1301,006,Citizenship Without Borders,40,Monday,18:00,20:50,T235,Nina Morgan
+202304,GNED,1301,007,Citizenship Without Borders,40,Monday,08:30,09:50,T241,TBA
+202304,GNED,1301,007,Citizenship Without Borders,40,Wednesday,08:30,09:50,T241,TBA
+202304,GNED,1301,008,Citizenship Without Borders,40,Tuesday,13:00,14:20,B220,Sarah Brown
+202304,GNED,1301,008,Citizenship Without Borders,40,Thursday,13:00,14:20,B220,Sarah Brown
+202304,GNED,1301,009,Citizenship Without Borders,40,Tuesday,13:00,14:20,X303,David Ohreen
+202304,GNED,1301,009,Citizenship Without Borders,40,Thursday,13:00,14:20,X303,David Ohreen
+202304,GNED,1301,010,Citizenship Without Borders,40,Tuesday,11:30,12:50,X303,David Ohreen
+202304,GNED,1301,010,Citizenship Without Borders,40,Thursday,11:30,12:50,X303,David Ohreen
+202304,GNED,1301,011,Citizenship Without Borders,40,Tuesday,08:30,09:50,T235,TBA
+202304,GNED,1301,011,Citizenship Without Borders,40,Thursday,08:30,09:50,T235,TBA
+202304,GNED,1301,012,Citizenship Without Borders,40,Tuesday,13:00,14:20,T235,Heather Nelson
+202304,GNED,1301,012,Citizenship Without Borders,40,Thursday,13:00,14:20,T235,Heather Nelson
+202304,GNED,1301,013,Citizenship Without Borders,40,Tuesday,10:00,11:20,I128,Sarah Brown
+202304,GNED,1301,013,Citizenship Without Borders,40,Thursday,10:00,11:20,I128,Sarah Brown
+202304,GNED,1301,014,Citizenship Without Borders,40,Monday,10:00,11:20,EA1031,Aliyah Dosani
+202304,GNED,1301,014,Citizenship Without Borders,40,Wednesday,10:00,11:20,EA1031,Aliyah Dosani
+202304,GNED,1301,015,Citizenship Without Borders,40,Tuesday,16:00,17:20,EB3120,Nazak Birjandifar
+202304,GNED,1301,015,Citizenship Without Borders,40,Thursday,16:00,17:20,EB3120,Nazak Birjandifar
+202304,GNED,1301,016,Citizenship Without Borders,40,Tuesday,08:30,09:50,EA1014,TBA
+202304,GNED,1301,016,Citizenship Without Borders,40,Thursday,08:30,09:50,EA1014,TBA
+202304,GNED,1301,017,Citizenship Without Borders,40,Tuesday,13:00,14:20,W227,Lorenzo Petrin
+202304,GNED,1301,017,Citizenship Without Borders,40,Thursday,13:00,14:20,W227,Lorenzo Petrin
+202304,GNED,1301,018,Citizenship Without Borders,40,Tuesday,11:30,12:50,B217,Mulugeta Haile
+202304,GNED,1301,018,Citizenship Without Borders,40,Thursday,11:30,12:50,B217,Mulugeta Haile
+202304,GNED,1301,019,Citizenship Without Borders,40,Tuesday,10:00,11:20,B217,Mulugeta Haile
+202304,GNED,1301,019,Citizenship Without Borders,40,Thursday,10:00,11:20,B217,Mulugeta Haile
+202304,GNED,1301,020,Citizenship Without Borders,40,Monday,13:00,14:20,EA2004,Roberta Lexier
+202304,GNED,1301,020,Citizenship Without Borders,40,Wednesday,13:00,14:20,EA2004,Roberta Lexier
+202304,GNED,1301,021,Citizenship Without Borders,40,Monday,11:30,12:50,Y214,Heather Nelson
+202304,GNED,1301,021,Citizenship Without Borders,40,Wednesday,11:30,12:50,Y214,Heather Nelson
+202304,GNED,1301,022,Citizenship Without Borders,40,Monday,10:00,11:20,Y316,TBA
+202304,GNED,1301,022,Citizenship Without Borders,40,Wednesday,10:00,11:20,Y316,TBA
+202304,GNED,1301,023,Citizenship Without Borders,40,Tuesday,14:30,15:50,EC1130,Sarah Brown
+202304,GNED,1301,023,Citizenship Without Borders,40,Thursday,14:30,15:50,EC1130,Sarah Brown
+202304,GNED,1301,024,Citizenship Without Borders,40,Tuesday,13:00,14:20,EA1031,Carol Krol
+202304,GNED,1301,024,Citizenship Without Borders,40,Thursday,13:00,14:20,EA1031,Carol Krol
+202304,GNED,1301,065,Citizenship Without Borders,3,Wednesday,10:00,11:20,Y318,TBA
+202304,GNED,1301,065,Citizenship Without Borders,3,Friday,10:00,11:20,Y318,TBA
+202304,GNED,1303,001,Conflict and the Social Context,40,Thursday,16:00,18:50,EA1051,Helena Myllykoski
+202304,GNED,1303,002,Conflict and the Social Context,40,Monday,14:30,15:50,T235,TBA
+202304,GNED,1303,002,Conflict and the Social Context,40,Wednesday,14:30,15:50,T235,TBA
+202304,GNED,1303,003,Conflict and the Social Context,40,Monday,08:30,09:50,EA2057,TBA
+202304,GNED,1303,003,Conflict and the Social Context,40,Wednesday,08:30,09:50,EA2057,TBA
+202304,GNED,1303,004,Conflict and the Social Context,40,Monday,13:00,14:20,EA2057,Tashi Tsering
+202304,GNED,1303,004,Conflict and the Social Context,40,Wednesday,13:00,14:20,EA2057,Tashi Tsering
+202304,GNED,1303,005,Conflict and the Social Context,40,Monday,13:00,14:20,T235,TBA
+202304,GNED,1303,005,Conflict and the Social Context,40,Wednesday,13:00,14:20,T235,TBA
+202304,GNED,1303,006,Conflict and the Social Context,40,Tuesday,11:30,12:50,T241,Chris Moxham
+202304,GNED,1303,006,Conflict and the Social Context,40,Thursday,11:30,12:50,T241,Chris Moxham
+202304,GNED,1303,007,Conflict and the Social Context,40,Tuesday,11:30,12:50,T133,Heather Nelson
+202304,GNED,1303,007,Conflict and the Social Context,40,Thursday,11:30,12:50,T133,Heather Nelson
+202304,GNED,1303,008,Conflict and the Social Context,40,Monday,11:30,12:50,EC1130,Tashi Tsering
+202304,GNED,1303,008,Conflict and the Social Context,40,Wednesday,11:30,12:50,EC1130,Tashi Tsering
+202304,GNED,1303,009,Conflict and the Social Context,40,Wednesday,10:00,11:20,T235,TBA
+202304,GNED,1303,009,Conflict and the Social Context,40,Friday,10:00,11:20,T235,TBA
+202304,GNED,1303,010,Conflict and the Social Context,40,Wednesday,11:30,14:20,Y224,TBA
+202304,GNED,1303,011,Conflict and the Social Context,40,Monday,16:00,17:20,EA1022,Lorenzo Petrin
+202304,GNED,1303,011,Conflict and the Social Context,40,Wednesday,16:00,17:20,EA1022,Lorenzo Petrin
+202304,GNED,1303,012,Conflict and the Social Context,40,Tuesday,16:00,17:20,E204,Nina Morgan
+202304,GNED,1303,012,Conflict and the Social Context,40,Thursday,16:00,17:20,E204,Nina Morgan
+202304,GNED,1303,013,Conflict and the Social Context,40,Wednesday,18:00,20:50,EA1004,Nina Morgan
+202304,GNED,1303,014,Conflict and the Social Context,40,Tuesday,08:30,09:50,X303,Christine Giancarlo
+202304,GNED,1303,014,Conflict and the Social Context,40,Thursday,08:30,09:50,X303,Christine Giancarlo
+202304,GNED,1303,015,Conflict and the Social Context,40,Monday,16:00,17:20,None,TBA
+202304,GNED,1303,015,Conflict and the Social Context,40,Wednesday,16:00,17:20,None,TBA
+202304,GNED,1303,016,Conflict and the Social Context,40,Monday,13:00,14:20,Y222,TBA
+202304,GNED,1303,016,Conflict and the Social Context,40,Wednesday,13:00,14:20,Y222,TBA
+202304,GNED,1303,017,Conflict and the Social Context,40,Monday,14:30,15:50,Y222,Lorenzo Petrin
+202304,GNED,1303,017,Conflict and the Social Context,40,Wednesday,14:30,15:50,Y222,Lorenzo Petrin
+202304,GNED,1303,018,Conflict and the Social Context,40,Tuesday,13:00,14:20,T141,Vicki Bouvier
+202304,GNED,1303,018,Conflict and the Social Context,40,Thursday,13:00,14:20,T141,Vicki Bouvier
+202304,GNED,1303,019,Conflict and the Social Context,40,Tuesday,14:30,15:50,I128,Enrique Lopez
+202304,GNED,1303,019,Conflict and the Social Context,40,Thursday,14:30,15:50,I128,Enrique Lopez
+202304,GNED,1303,020,Conflict and the Social Context,40,Friday,11:30,14:20,EA1014,TBA
+202304,GNED,1303,021,Conflict and the Social Context,40,Monday,11:30,12:50,Y222,TBA
+202304,GNED,1303,021,Conflict and the Social Context,40,Wednesday,11:30,12:50,Y222,TBA
+202304,GNED,1303,022,Conflict and the Social Context,40,Monday,11:30,12:50,EA1031,TBA
+202304,GNED,1303,022,Conflict and the Social Context,40,Wednesday,11:30,12:50,EA1031,TBA
+202304,GNED,1401,001,Writing for Academic Success,32,Tuesday,09:30,11:20,E206,Karen Manarin
+202304,GNED,1401,001,Writing for Academic Success,32,Thursday,09:30,11:20,E206,Karen Manarin
+202304,GNED,1401,002,Writing for Academic Success,32,Monday,15:30,17:20,E206,Erika Watters
+202304,GNED,1401,002,Writing for Academic Success,32,Wednesday,15:30,17:20,E206,Erika Watters
+202304,GNED,1401,003,Writing for Academic Success,32,Tuesday,15:30,17:20,E206,Sara Earley
+202304,GNED,1401,003,Writing for Academic Success,32,Thursday,15:30,17:20,E206,Sara Earley
+202304,GNED,1401,004,Writing for Academic Success,32,Monday,13:30,15:20,E206,David Hyttenrauch
+202304,GNED,1401,004,Writing for Academic Success,32,Wednesday,13:30,15:20,E206,David Hyttenrauch
+202304,GNED,1401,005,Writing for Academic Success,32,Tuesday,13:30,15:20,E206,Kelly Kaur
+202304,GNED,1401,005,Writing for Academic Success,32,Thursday,13:30,15:20,EA2059,Kelly Kaur
+202304,GNED,1401,006,Writing for Academic Success,32,Monday,11:30,13:20,EA2059,Sharon Ramraj-Thompson
+202304,GNED,1401,006,Writing for Academic Success,32,Wednesday,11:30,13:20,EA2059,Sharon Ramraj-Thompson
+202304,GNED,1401,007,Writing for Academic Success,32,Monday,09:30,11:20,E206,Bill Bunn
+202304,GNED,1401,007,Writing for Academic Success,32,Wednesday,09:30,11:20,E206,Bill Bunn
+202304,GNED,1401,008,Writing for Academic Success,32,Tuesday,11:30,13:20,E206,Kelly Kaur
+202304,GNED,1401,008,Writing for Academic Success,32,Thursday,11:30,13:20,EA2059,Kelly Kaur
+202304,GNED,1401,009,Writing for Academic Success,32,Tuesday,12:00,13:50,T139,Karen Manarin
+202304,GNED,1401,009,Writing for Academic Success,32,Thursday,12:00,13:50,T139,Karen Manarin
+202304,GNED,1401,010,Writing for Academic Success,32,Tuesday,14:00,15:50,T139,Elaine Mullen
+202304,GNED,1401,010,Writing for Academic Success,32,Thursday,14:00,15:50,T139,Elaine Mullen
+202304,GNED,1401,011,Writing for Academic Success,32,Tuesday,16:00,17:50,T139,Amos Altman
+202304,GNED,1401,011,Writing for Academic Success,32,Thursday,16:00,17:50,T139,Amos Altman
+202304,GNED,1401,012,Writing for Academic Success,32,Tuesday,10:00,11:50,T139,Sara Earley
+202304,GNED,1401,012,Writing for Academic Success,32,Thursday,10:00,11:50,T139,Sara Earley
+202304,GNED,1401,013,Writing for Academic Success,32,Monday,10:00,11:50,T139,Erika Watters
+202304,GNED,1401,013,Writing for Academic Success,32,Wednesday,10:00,11:50,T139,Erika Watters
+202304,GNED,1401,014,Writing for Academic Success,32,Monday,16:00,17:50,T139,Terri Baker
+202304,GNED,1401,014,Writing for Academic Success,32,Wednesday,16:00,17:50,T139,Terri Baker
+202304,GNED,1401,015,Writing for Academic Success,32,Monday,14:00,15:50,T139,Bill Bunn
+202304,GNED,1401,015,Writing for Academic Success,32,Wednesday,14:00,15:50,T139,Bill Bunn
+202304,GNED,1401,016,Writing for Academic Success,32,Monday,12:00,13:50,T139,Colin Martin
+202304,GNED,1401,016,Writing for Academic Success,32,Wednesday,12:00,13:50,T139,Colin Martin
+202304,GNED,1401,017,Writing for Academic Success,32,Tuesday,10:30,12:20,E123,Sharon Ramraj-Thompson
+202304,GNED,1401,017,Writing for Academic Success,32,Thursday,10:30,12:20,E123,Sharon Ramraj-Thompson
+202304,GNED,1401,018,Writing for Academic Success,32,Tuesday,08:30,10:20,E123,Daniela Fontenelle-Tereshchuk
+202304,GNED,1401,018,Writing for Academic Success,32,Thursday,08:30,10:20,E123,Daniela Fontenelle-Tereshchuk
+202304,GNED,1401,019,Writing for Academic Success,32,Monday,16:30,18:20,E123,Bill Bunn
+202304,GNED,1401,019,Writing for Academic Success,32,Wednesday,16:30,18:20,E123,Bill Bunn
+202304,GNED,1401,020,Writing for Academic Success,32,Monday,14:30,16:20,E123,Janine Falck
+202304,GNED,1401,020,Writing for Academic Success,32,Wednesday,14:30,16:20,E123,Janine Falck
+202304,GNED,1401,021,Writing for Academic Success,32,Monday,12:30,14:20,E123,Janine Falck
+202304,GNED,1401,021,Writing for Academic Success,32,Wednesday,12:30,14:20,E123,Janine Falck
+202304,GNED,1401,022,Writing for Academic Success,32,Tuesday,14:30,16:20,E123,Daniela Fontenelle-Tereshchuk
+202304,GNED,1401,022,Writing for Academic Success,32,Thursday,14:30,16:20,E123,Daniela Fontenelle-Tereshchuk
+202304,GNED,1401,023,Writing for Academic Success,32,Monday,10:30,12:20,E123,Karen Manarin
+202304,GNED,1401,023,Writing for Academic Success,32,Wednesday,10:30,12:20,E123,Karen Manarin
+202304,GNED,1401,024,Writing for Academic Success,27,Monday,08:30,10:20,E123,Daniela Fontenelle-Tereshchuk
+202304,GNED,1401,024,Writing for Academic Success,27,Wednesday,08:30,10:20,E123,Daniela Fontenelle-Tereshchuk
+202304,GNED,1401,025,Writing for Academic Success,32,Monday,17:30,19:20,E206,Margaret Brodie
+202304,GNED,1401,025,Writing for Academic Success,32,Wednesday,17:30,19:20,E206,Margaret Brodie
+202304,GNED,1401,026,Writing for Academic Success,32,Monday,18:00,19:50,T139,Cory Willard
+202304,GNED,1401,026,Writing for Academic Success,32,Wednesday,18:00,19:50,T139,Cory Willard
+202304,GNED,1401,027,Writing for Academic Success,32,Tuesday,18:30,20:20,EA1010,Kim McCullough
+202304,GNED,1401,027,Writing for Academic Success,32,Thursday,18:30,20:20,EA1010,Kim McCullough
+202304,GNED,1401,028,Writing for Academic Success,32,Monday,18:30,20:20,EA2058,Daniela Fontenelle-Tereshchuk
+202304,GNED,1401,028,Writing for Academic Success,32,Wednesday,18:30,20:20,EA2058,Daniela Fontenelle-Tereshchuk
+202304,GNED,1401,029,Writing for Academic Success,32,Tuesday,12:30,14:20,EA2058,Sara Earley
+202304,GNED,1401,029,Writing for Academic Success,32,Thursday,12:30,14:20,EA2058,Sara Earley
+202304,GNED,1401,030,Writing for Academic Success,32,Tuesday,10:30,12:20,EA2058,Elaine Mullen
+202304,GNED,1401,030,Writing for Academic Success,32,Thursday,10:30,12:20,EA2058,Elaine Mullen
+202304,GNED,1401,031,Writing for Academic Success,32,Monday,16:30,18:20,EA2058,Amos Altman
+202304,GNED,1401,031,Writing for Academic Success,32,Wednesday,16:30,18:20,EA2058,Amos Altman
+202304,GNED,1401,032,Writing for Academic Success,32,Tuesday,08:30,10:20,EA2058,Elaine Mullen
+202304,GNED,1401,032,Writing for Academic Success,32,Thursday,08:30,10:20,EA2058,Elaine Mullen
+202304,GNED,1401,033,Writing for Academic Success,32,Monday,12:30,14:20,EA2058,Erika Watters
+202304,GNED,1401,033,Writing for Academic Success,32,Wednesday,12:30,14:20,EA2058,Erika Watters
+202304,GNED,1401,034,Writing for Academic Success,32,Monday,14:30,16:20,EA2058,Sarah Banting
+202304,GNED,1401,034,Writing for Academic Success,32,Wednesday,14:30,16:20,EA2058,Sarah Banting
+202304,GNED,1401,035,Writing for Academic Success,32,Monday,08:30,10:20,EA2058,Jill Boettger
+202304,GNED,1401,035,Writing for Academic Success,32,Wednesday,08:30,10:20,EA2058,Jill Boettger
+202304,GNED,1401,036,Writing for Academic Success,32,Monday,10:30,12:20,EA2058,David Hyttenrauch
+202304,GNED,1401,036,Writing for Academic Success,32,Wednesday,10:30,12:20,EA2058,David Hyttenrauch
+202304,GNED,1401,065,Writing for Academic Success,5,Monday,08:30,10:20,E123,Daniela Fontenelle-Tereshchuk
+202304,GNED,1401,065,Writing for Academic Success,5,Wednesday,08:30,10:20,E123,Daniela Fontenelle-Tereshchuk
+202304,GNED,1403,001,Writing in a Digital Context: Language Media Culture,32,Monday,13:00,14:20,EA2068,TBA
+202304,GNED,1403,001,Writing in a Digital Context: Language Media Culture,32,Wednesday,13:00,14:20,EA2068,TBA
+202304,GNED,1403,002,Writing in a Digital Context: Language Media Culture,32,Tuesday,13:00,14:20,Y316,TBA
+202304,GNED,1403,002,Writing in a Digital Context: Language Media Culture,32,Thursday,13:00,14:20,Y316,TBA
+202304,GNED,1403,003,Writing in a Digital Context: Language Media Culture,32,Tuesday,14:30,15:50,EA2054,TBA
+202304,GNED,1403,003,Writing in a Digital Context: Language Media Culture,32,Thursday,14:30,15:50,EA2054,TBA
+202304,GNED,1403,004,Writing in a Digital Context: Language Media Culture,32,Monday,14:30,15:50,EA1070,TBA
+202304,GNED,1403,004,Writing in a Digital Context: Language Media Culture,32,Wednesday,14:30,15:50,EA1070,TBA
+202304,GNED,1403,005,Writing in a Digital Context: Language Media Culture,32,Monday,10:00,11:20,EA1060,TBA
+202304,GNED,1403,005,Writing in a Digital Context: Language Media Culture,32,Wednesday,10:00,11:20,EA1060,TBA
+202304,GNED,1403,006,Writing in a Digital Context: Language Media Culture,32,Tuesday,10:00,11:20,EA2009,TBA
+202304,GNED,1403,006,Writing in a Digital Context: Language Media Culture,32,Thursday,10:00,11:20,EA2009,TBA
+202304,GNED,1404,001,Writing about Images,32,Monday,18:00,20:50,EA2060,TBA
+202304,GNED,1404,002,Writing about Images,32,Monday,11:30,12:50,T131,TBA
+202304,GNED,1404,002,Writing about Images,32,Wednesday,11:30,12:50,T131,TBA
+202304,GNED,1404,003,Writing about Images,32,Tuesday,13:00,14:20,B202,Chris Moxham
+202304,GNED,1404,003,Writing about Images,32,Thursday,13:00,14:20,B202,Chris Moxham
+202304,GNED,1404,004,Writing about Images,32,Monday,10:00,11:20,T135,Tania Mehta
+202304,GNED,1404,004,Writing about Images,32,Wednesday,10:00,11:20,T135,Tania Mehta
+202304,GNED,1404,005,Writing about Images,32,Tuesday,10:00,11:20,T135,Carolyn Willekes
+202304,GNED,1404,005,Writing about Images,32,Thursday,10:00,11:20,T135,Carolyn Willekes
+202304,GNED,1404,006,Writing about Images,32,Tuesday,14:30,15:50,T135,TBA
+202304,GNED,1404,006,Writing about Images,32,Thursday,14:30,15:50,T135,TBA
+202304,GNED,1404,007,Writing about Images,32,Monday,16:00,17:20,T135,TBA
+202304,GNED,1404,007,Writing about Images,32,Wednesday,16:00,17:20,T135,TBA
+202304,GNED,1404,008,Writing about Images,32,Tuesday,16:00,17:20,T135,TBA
+202304,GNED,1404,008,Writing about Images,32,Thursday,16:00,17:20,T135,TBA
+202304,GNED,1404,009,Writing about Images,32,Monday,08:30,09:50,T135,TBA
+202304,GNED,1404,009,Writing about Images,32,Wednesday,08:30,09:50,T135,TBA
+202304,GNED,1404,010,Writing about Images,32,Tuesday,13:00,14:20,T135,TBA
+202304,GNED,1404,010,Writing about Images,32,Thursday,13:00,14:20,T135,TBA
+202304,GNED,1404,011,Writing about Images,32,Tuesday,11:30,12:50,T135,TBA
+202304,GNED,1404,011,Writing about Images,32,Thursday,11:30,12:50,T135,TBA
+202304,GNED,1404,012,Writing about Images,32,Tuesday,08:30,09:50,T135,Chris Moxham
+202304,GNED,1404,012,Writing about Images,32,Thursday,08:30,09:50,T135,Chris Moxham
+202304,GNED,1404,013,Writing about Images,32,Monday,14:30,15:50,T135,TBA
+202304,GNED,1404,013,Writing about Images,32,Wednesday,14:30,15:50,T135,TBA
+202304,GNED,1404,014,Writing about Images,32,Monday,14:30,15:50,EA2060,TBA
+202304,GNED,1404,014,Writing about Images,32,Wednesday,14:30,15:50,EA2060,TBA
+202304,GNED,1404,015,Writing about Images,32,Tuesday,14:30,15:50,EA1060,TBA
+202304,GNED,1404,015,Writing about Images,32,Thursday,14:30,15:50,EA1060,TBA
+202304,GNED,1404,016,Writing about Images,32,Wednesday,10:00,11:20,EA1070,TBA
+202304,GNED,1404,016,Writing about Images,32,Friday,10:00,11:20,EA1070,TBA
+202304,GNED,1404,017,Writing about Images,32,Tuesday,10:00,11:20,E133,TBA
+202304,GNED,1404,017,Writing about Images,32,Thursday,10:00,11:20,E133,TBA
+202304,GNED,1404,018,Writing about Images,32,Tuesday,14:30,17:20,EA2057,TBA
+202304,GNED,1404,019,Writing about Images,32,Tuesday,10:00,11:20,EA2060,TBA
+202304,GNED,1404,019,Writing about Images,32,Thursday,10:00,11:20,EA2060,TBA
+202304,GNED,1404,020,Writing about Images,32,Monday,16:00,17:20,EA2060,TBA
+202304,GNED,1404,020,Writing about Images,32,Wednesday,16:00,17:20,EA2060,TBA
+202304,GNED,1404,021,Writing about Images,32,Monday,13:00,14:20,EA2060,Tania Mehta
+202304,GNED,1404,021,Writing about Images,32,Wednesday,13:00,14:20,EA2060,Tania Mehta
+202304,GNED,1404,022,Writing about Images,32,Tuesday,13:00,14:20,EA2060,TBA
+202304,GNED,1404,022,Writing about Images,32,Thursday,13:00,14:20,EA2060,TBA
+202304,GNED,1404,023,Writing about Images,32,Tuesday,11:30,12:50,EA2060,TBA
+202304,GNED,1404,023,Writing about Images,32,Thursday,11:30,12:50,EA2060,TBA
+202304,GNED,1404,024,Writing about Images,32,Tuesday,08:30,09:50,EA2060,TBA
+202304,GNED,1404,024,Writing about Images,32,Thursday,08:30,09:50,EA2060,TBA
+202304,GNED,1404,025,Writing about Images,32,Monday,11:30,12:50,EA2060,TBA
+202304,GNED,1404,025,Writing about Images,32,Wednesday,11:30,12:50,EA2060,TBA
+202304,GNED,1404,026,Writing about Images,32,Monday,13:00,14:20,I128,TBA
+202304,GNED,1404,026,Writing about Images,32,Wednesday,13:00,14:20,I128,TBA
+202304,GNED,1404,027,Writing about Images,32,Monday,16:00,17:20,E125,TBA
+202304,GNED,1404,027,Writing about Images,32,Wednesday,16:00,17:20,E125,TBA
+202304,GNED,2302,001,Rethinking the Public Sphere,25,Saturday,09:00,11:50,EA1010,Nina Morgan
+202304,GNED,2303,001,Peacebuilding Foundations and Practices,30,Tuesday,13:00,14:20,B222,Tashi Tsering
+202304,GNED,2303,001,Peacebuilding Foundations and Practices,30,Thursday,13:00,14:20,B222,Tashi Tsering
+202304,GNED,2402,001,Inside Information: Challenges and Controversies in the Information Age,35,Monday,10:00,11:20,EL1441,Katharine Barrette
+202304,GNED,2402,001,Inside Information: Challenges and Controversies in the Information Age,35,Wednesday,10:00,11:20,EL1441,Katharine Barrette
+202304,GNED,2403,001,Social Media and Social Movements,32,Monday,16:00,17:20,EB1023,TBA
+202304,GNED,2403,001,Social Media and Social Movements,32,Wednesday,16:00,17:20,EB1023,TBA
+202304,GNED,3201,001,The World in a Thousand Pages,35,Tuesday,11:30,12:50,EA1060,Allison Dube
+202304,GNED,3201,001,The World in a Thousand Pages,35,Thursday,11:30,12:50,EA1060,Allison Dube
+202304,GNED,3402,001,Literacy Orality Communication and Creativity,25,Tuesday,10:00,11:20,X303,TBA
+202304,GNED,3402,001,Literacy Orality Communication and Creativity,25,Thursday,10:00,11:20,X303,TBA
+202304,MATH,0115,001,Foundations of Mathematics I,40,Monday,12:00,13:50,W227,TBA
+202304,MATH,0115,001,Foundations of Mathematics I,40,Wednesday,12:00,13:50,W227,TBA
+202304,MATH,0115,001,Foundations of Mathematics I,40,Friday,12:00,12:50,W227,TBA
+202304,MATH,0115,002,Foundations of Mathematics I,40,Tuesday,16:00,18:20,Y214,TBA
+202304,MATH,0115,002,Foundations of Mathematics I,40,Thursday,16:00,18:20,Y214,TBA
+202304,MATH,0115,003,Foundations of Mathematics I,40,Monday,18:00,18:50,None,TBA
+202304,MATH,0115,003,Foundations of Mathematics I,40,Wednesday,18:00,18:50,None,TBA
+202304,MATH,0115,003,Foundations of Mathematics I,40,Monday,19:00,20:20,None,TBA
+202304,MATH,0115,003,Foundations of Mathematics I,40,Wednesday,19:00,20:20,None,TBA
+202304,MATH,0115,065,Foundations of Mathematics I,30,Monday,12:30,14:20,T130,TBA
+202304,MATH,0115,065,Foundations of Mathematics I,30,Wednesday,12:30,14:20,T130,TBA
+202304,MATH,0115,065,Foundations of Mathematics I,30,Friday,12:30,13:20,T130,TBA
+202304,MATH,0115,066,Foundations of Mathematics I,30,Monday,11:30,12:20,I119,TBA
+202304,MATH,0115,066,Foundations of Mathematics I,30,Wednesday,11:30,12:20,I119,TBA
+202304,MATH,0115,066,Foundations of Mathematics I,30,Friday,11:30,12:20,I119,TBA
+202304,MATH,0115,066,Foundations of Mathematics I,30,Monday,12:30,13:20,I119,TBA
+202304,MATH,0115,066,Foundations of Mathematics I,30,Wednesday,12:30,13:20,I119,TBA
+202304,MATH,0115,401,Foundations of Mathematics I,20,Wednesday,14:00,14:50,T234,TBA
+202304,MATH,0115,402,Foundations of Mathematics I,20,Thursday,12:30,13:20,T134,TBA
+202304,MATH,0115,403,Foundations of Mathematics I,20,Tuesday,18:30,19:20,Y214,TBA
+202304,MATH,0115,404,Foundations of Mathematics I,20,Thursday,18:30,19:20,Y214,TBA
+202304,MATH,0115,465,Foundations of Mathematics I,30,Friday,08:30,09:20,T130,TBA
+202304,MATH,0115,466,Foundations of Mathematics I,30,Friday,12:30,13:20,I119,TBA
+202304,MATH,0130,001,Pre-Calculus,45,Monday,08:30,10:20,I120,TBA
+202304,MATH,0130,001,Pre-Calculus,45,Wednesday,08:30,10:20,I120,TBA
+202304,MATH,0130,001,Pre-Calculus,45,Friday,08:30,09:20,I120,TBA
+202304,MATH,0130,002,Pre-Calculus,50,Monday,12:30,14:20,I120,TBA
+202304,MATH,0130,002,Pre-Calculus,50,Wednesday,12:30,14:20,I120,TBA
+202304,MATH,0130,002,Pre-Calculus,50,Friday,12:30,13:20,I120,TBA
+202304,MATH,0130,003,Pre-Calculus,50,Monday,16:00,18:20,None,TBA
+202304,MATH,0130,003,Pre-Calculus,50,Wednesday,16:00,18:20,None,TBA
+202304,MATH,0130,004,Pre-Calculus,50,Tuesday,11:30,13:50,I120,TBA
+202304,MATH,0130,004,Pre-Calculus,50,Thursday,11:30,13:50,I120,TBA
+202304,MATH,0130,065,Pre-Calculus,5,Monday,08:30,10:20,I120,TBA
+202304,MATH,0130,065,Pre-Calculus,5,Wednesday,08:30,10:20,I120,TBA
+202304,MATH,0130,065,Pre-Calculus,5,Friday,08:30,09:20,I120,TBA
+202304,MATH,0130,401,Pre-Calculus,20,Friday,10:00,10:50,I120,TBA
+202304,MATH,0130,402,Pre-Calculus,25,Friday,11:00,11:50,I120,TBA
+202304,MATH,0130,403,Pre-Calculus,25,Thursday,15:00,15:50,I120,TBA
+202304,MATH,0130,404,Pre-Calculus,25,Thursday,14:00,14:50,I120,TBA
+202304,MATH,0130,407,Pre-Calculus,25,Thursday,10:30,11:20,I120,TBA
+202304,MATH,0130,408,Pre-Calculus,25,Wednesday,11:30,12:20,I120,TBA
+202304,MATH,0130,465,Pre-Calculus,5,Friday,10:00,10:50,I120,TBA
+202304,MATH,0131,001,Introduction to Calculus,40,Tuesday,10:00,12:20,None,TBA
+202304,MATH,0131,001,Introduction to Calculus,40,Thursday,10:00,12:20,None,TBA
+202304,MATH,0132,001,Foundations of Mathematics II,50,Monday,08:30,10:20,None,TBA
+202304,MATH,0132,001,Foundations of Mathematics II,50,Wednesday,08:30,10:20,None,TBA
+202304,MATH,0132,001,Foundations of Mathematics II,50,Friday,08:30,09:20,None,TBA
+202304,MATH,0132,002,Foundations of Mathematics II,50,Tuesday,13:00,15:20,EA2047,TBA
+202304,MATH,0132,002,Foundations of Mathematics II,50,Thursday,13:00,15:20,EA2047,TBA
+202304,MATH,0132,003,Foundations of Mathematics II,50,Monday,12:30,14:20,T143,TBA
+202304,MATH,0132,003,Foundations of Mathematics II,50,Wednesday,12:30,14:20,T143,TBA
+202304,MATH,0132,003,Foundations of Mathematics II,50,Friday,12:30,13:20,T143,TBA
+202304,MATH,0132,065,Foundations of Mathematics II,30,Monday,14:30,16:20,I119,TBA
+202304,MATH,0132,065,Foundations of Mathematics II,30,Wednesday,14:30,16:20,I119,TBA
+202304,MATH,0132,065,Foundations of Mathematics II,30,Friday,14:30,15:20,I119,TBA
+202304,MATH,0132,403,Foundations of Mathematics II,25,Thursday,10:30,11:20,T134,TBA
+202304,MATH,0132,404,Foundations of Mathematics II,25,Wednesday,11:30,12:20,T234,TBA
+202304,MATH,0132,405,Foundations of Mathematics II,25,Friday,13:30,14:20,T143,TBA
+202304,MATH,0132,406,Foundations of Mathematics II,25,Friday,14:30,15:20,T143,TBA
+202304,MATH,0132,465,Foundations of Mathematics II,30,Friday,15:30,16:20,I119,TBA
+202304,MATH,1103,001,Introduction to Statistical Reasoning,35,Monday,16:00,17:20,EA2062,TBA
+202304,MATH,1103,001,Introduction to Statistical Reasoning,35,Wednesday,16:00,17:20,EA2062,TBA
+202304,MATH,1150,001,Mathematical Reasoning,35,Monday,11:30,12:50,EB1109,Indy Lagu
+202304,MATH,1150,001,Mathematical Reasoning,35,Wednesday,11:30,12:50,EB1109,Indy Lagu
+202304,MATH,1185,001,Calculus with Applications,30,Monday,11:30,12:50,E125,Peter Zizler
+202304,MATH,1185,001,Calculus with Applications,30,Wednesday,11:30,12:50,E125,Peter Zizler
+202304,MATH,1185,501,Calculus with Applications,30,Monday,13:00,13:50,E203,Peter Zizler
+202304,MATH,1185,501,Calculus with Applications,30,Wednesday,13:00,13:50,E203,Peter Zizler
+202304,MATH,1200,001,Calculus for Scientists I,48,Tuesday,11:30,12:50,T223,TBA
+202304,MATH,1200,001,Calculus for Scientists I,48,Thursday,11:30,12:50,T223,TBA
+202304,MATH,1200,001,Calculus for Scientists I,48,Friday,11:30,12:20,T223,TBA
+202304,MATH,1200,002,Calculus for Scientists I,48,Tuesday,16:00,17:20,T223,Carlos Videla Rico
+202304,MATH,1200,002,Calculus for Scientists I,48,Thursday,16:00,17:20,T223,Carlos Videla Rico
+202304,MATH,1200,002,Calculus for Scientists I,48,Wednesday,16:00,16:50,T223,Carlos Videla Rico
+202304,MATH,1200,003,Calculus for Scientists I,48,Monday,11:30,12:50,EB1102,Pamini Thangarajah
+202304,MATH,1200,003,Calculus for Scientists I,48,Wednesday,11:30,12:50,EB1102,Pamini Thangarajah
+202304,MATH,1200,003,Calculus for Scientists I,48,Tuesday,11:30,12:20,EB1102,Pamini Thangarajah
+202304,MATH,1200,004,Calculus for Scientists I,48,Monday,14:30,15:50,T223,Mariya Svishchuk
+202304,MATH,1200,004,Calculus for Scientists I,48,Wednesday,14:30,15:50,T223,Mariya Svishchuk
+202304,MATH,1200,004,Calculus for Scientists I,48,Tuesday,14:30,15:20,T223,Mariya Svishchuk
+202304,MATH,1200,005,Calculus for Scientists I,48,Monday,10:00,11:20,EB1102,Roberta La Haye
+202304,MATH,1200,005,Calculus for Scientists I,48,Wednesday,10:00,11:20,EB1102,Roberta La Haye
+202304,MATH,1200,005,Calculus for Scientists I,48,Tuesday,10:00,10:50,EB1102,Roberta La Haye
+202304,MATH,1200,006,Calculus for Scientists I,48,Monday,14:30,15:50,EA1024,Eric Roettger
+202304,MATH,1200,006,Calculus for Scientists I,48,Wednesday,14:30,15:50,EA1024,Eric Roettger
+202304,MATH,1200,006,Calculus for Scientists I,48,Tuesday,14:30,15:20,EA1024,Eric Roettger
+202304,MATH,1200,007,Calculus for Scientists I,48,Monday,13:00,14:20,T223,TBA
+202304,MATH,1200,007,Calculus for Scientists I,48,Wednesday,13:00,14:20,T223,TBA
+202304,MATH,1200,007,Calculus for Scientists I,48,Tuesday,13:00,13:50,T223,TBA
+202304,MATH,1200,008,Calculus for Scientists I,48,Tuesday,10:00,11:20,T223,Ganesh Bhandari
+202304,MATH,1200,008,Calculus for Scientists I,48,Thursday,10:00,11:20,T223,Ganesh Bhandari
+202304,MATH,1200,008,Calculus for Scientists I,48,Wednesday,10:00,10:50,T223,Ganesh Bhandari
+202304,MATH,1200,401,Calculus for Scientists I,24,Friday,15:00,15:50,B231,TBA
+202304,MATH,1200,402,Calculus for Scientists I,24,Friday,16:00,16:50,B231,TBA
+202304,MATH,1200,403,Calculus for Scientists I,24,Friday,15:00,15:50,B222,Carlos Videla Rico
+202304,MATH,1200,404,Calculus for Scientists I,24,Friday,16:00,16:50,B222,Carlos Videla Rico
+202304,MATH,1200,405,Calculus for Scientists I,24,Friday,09:00,09:50,B231,Pamini Thangarajah
+202304,MATH,1200,406,Calculus for Scientists I,24,Friday,10:00,10:50,B231,Pamini Thangarajah
+202304,MATH,1200,407,Calculus for Scientists I,24,Friday,15:00,15:50,B220,Mariya Svishchuk
+202304,MATH,1200,408,Calculus for Scientists I,24,Friday,16:00,16:50,B220,Mariya Svishchuk
+202304,MATH,1200,409,Calculus for Scientists I,24,Thursday,11:30,12:20,E125,Roberta La Haye
+202304,MATH,1200,410,Calculus for Scientists I,24,Thursday,12:30,13:20,E125,Roberta La Haye
+202304,MATH,1200,411,Calculus for Scientists I,24,Friday,11:00,11:50,B231,Eric Roettger
+202304,MATH,1200,412,Calculus for Scientists I,24,Friday,12:00,12:50,B231,Eric Roettger
+202304,MATH,1200,413,Calculus for Scientists I,24,Friday,13:00,13:50,E131,TBA
+202304,MATH,1200,414,Calculus for Scientists I,24,Friday,14:00,14:50,E123,TBA
+202304,MATH,1200,415,Calculus for Scientists I,24,Friday,11:30,12:20,E125,Ganesh Bhandari
+202304,MATH,1200,416,Calculus for Scientists I,24,Friday,12:30,13:20,E125,Ganesh Bhandari
+202304,MATH,1203,001,Linear Algebra for Scientists and Engineers,45,Monday,08:30,09:50,EA1024,Ganesh Bhandari
+202304,MATH,1203,001,Linear Algebra for Scientists and Engineers,45,Wednesday,08:30,09:50,EA1024,Ganesh Bhandari
+202304,MATH,1203,002,Linear Algebra for Scientists and Engineers,45,Monday,14:30,15:50,EB1102,Carlos Videla Rico
+202304,MATH,1203,002,Linear Algebra for Scientists and Engineers,45,Wednesday,14:30,15:50,EB1102,Carlos Videla Rico
+202304,MATH,1203,003,Linear Algebra for Scientists and Engineers,45,Tuesday,16:00,17:20,EB1102,TBA
+202304,MATH,1203,003,Linear Algebra for Scientists and Engineers,45,Thursday,16:00,17:20,EB1102,TBA
+202304,MATH,1203,401,Linear Algebra for Scientists and Engineers,45,Thursday,15:00,15:50,EA1024,Ganesh Bhandari
+202304,MATH,1203,402,Linear Algebra for Scientists and Engineers,45,Thursday,10:30,11:20,EA1024,Carlos Videla Rico
+202304,MATH,1203,403,Linear Algebra for Scientists and Engineers,45,Wednesday,16:00,16:50,EB1102,TBA
+202304,MATH,1205,001,The Beauty of Mathematics,36,Tuesday,16:00,17:20,B231,Peter Zizler
+202304,MATH,1205,001,The Beauty of Mathematics,36,Thursday,16:00,17:20,B231,Peter Zizler
+202304,MATH,1271,001,Discrete Mathematics,50,Monday,13:00,14:20,O226,Eric Roettger
+202304,MATH,1271,001,Discrete Mathematics,50,Wednesday,13:00,14:20,O226,Eric Roettger
+202304,MATH,1271,401,Discrete Mathematics,25,Friday,16:00,16:50,E123,Eric Roettger
+202304,MATH,1271,402,Discrete Mathematics,25,Friday,15:00,15:50,E123,Eric Roettger
+202304,MATH,1505,001,Puzzling Adventures in Mathematics,40,Monday,13:00,14:20,Y214,Indy Lagu
+202304,MATH,1505,001,Puzzling Adventures in Mathematics,40,Wednesday,13:00,14:20,Y214,Indy Lagu
+202304,MATH,1505,002,Puzzling Adventures in Mathematics,40,Monday,13:00,14:20,EC1150,TBA
+202304,MATH,1505,002,Puzzling Adventures in Mathematics,40,Wednesday,13:00,14:20,EC1150,TBA
+202304,MATH,1505,401,Puzzling Adventures in Mathematics,20,Friday,10:30,11:20,B220,Indy Lagu
+202304,MATH,1505,402,Puzzling Adventures in Mathematics,20,Friday,11:30,12:20,B220,Indy Lagu
+202304,MATH,1505,403,Puzzling Adventures in Mathematics,20,Friday,09:30,10:20,E123,TBA
+202304,MATH,1505,404,Puzzling Adventures in Mathematics,20,Friday,10:30,11:20,E123,TBA
+202304,MATH,2200,001,Calculus for Scientists II,48,Tuesday,13:00,14:20,B101,Mariya Svishchuk
+202304,MATH,2200,001,Calculus for Scientists II,48,Thursday,13:00,14:20,B101,Mariya Svishchuk
+202304,MATH,2200,401,Calculus for Scientists II,24,Wednesday,16:30,17:20,E131,Mariya Svishchuk
+202304,MATH,2200,402,Calculus for Scientists II,24,Monday,16:30,17:20,E131,Mariya Svishchuk
+202304,MATH,2233,001,Statistics for Biological Sciences,36,Monday,08:30,09:50,B231,TBA
+202304,MATH,2233,001,Statistics for Biological Sciences,36,Wednesday,08:30,09:50,B231,TBA
+202304,MATH,2233,401,Statistics for Biological Sciences,36,Tuesday,14:30,16:20,E147,TBA
+202304,MATH,2234,001,Concepts of Mathematical Statistics,40,Monday,14:30,16:20,W231,TBA
+202304,MATH,2234,001,Concepts of Mathematical Statistics,40,Wednesday,14:30,16:20,W231,TBA
+202304,MATH,2234,501,Concepts of Mathematical Statistics,40,Thursday,14:30,15:20,E147,TBA
+202304,MATH,2235,001,Statistics with Applications in Geology,30,Tuesday,13:00,14:20,EA1056,Ashok Krishnamurthy
+202304,MATH,2235,001,Statistics with Applications in Geology,30,Thursday,13:00,14:20,EA1056,Ashok Krishnamurthy
+202304,MATH,2235,401,Statistics with Applications in Geology,30,Wednesday,13:00,13:50,Y216,Ashok Krishnamurthy
+202304,MATH,2235,501,Statistics with Applications in Geology,30,Friday,12:00,12:50,EB1011,Ashok Krishnamurthy
+202304,MATH,2333,001,Statistics for Life Sciences,40,Monday,11:30,12:50,Y318,Shawn Liu
+202304,MATH,2333,001,Statistics for Life Sciences,40,Wednesday,11:30,12:50,Y318,Shawn Liu
+202304,MATH,2333,002,Statistics for Life Sciences,40,Monday,10:00,11:20,I119,Shawn Liu
+202304,MATH,2333,002,Statistics for Life Sciences,40,Wednesday,10:00,11:20,I119,Shawn Liu
+202304,MATH,2333,003,Statistics for Life Sciences,40,Tuesday,11:30,12:50,E204,Ganesh Bhandari
+202304,MATH,2333,003,Statistics for Life Sciences,40,Thursday,11:30,12:50,E204,Ganesh Bhandari
+202304,MATH,2333,401,Statistics for Life Sciences,40,Thursday,10:30,11:20,E147,Shawn Liu
+202304,MATH,2333,402,Statistics for Life Sciences,40,Tuesday,13:00,13:50,E147,Shawn Liu
+202304,MATH,2333,403,Statistics for Life Sciences,40,Friday,10:00,10:50,E147,Ganesh Bhandari
+202304,MATH,3101,001,Numerical Analysis,20,Tuesday,08:30,09:50,B222,Indy Lagu
+202304,MATH,3101,001,Numerical Analysis,20,Thursday,08:30,09:50,B222,Indy Lagu
+202304,MATH,3101,401,Numerical Analysis,20,Friday,14:30,16:20,B162,Indy Lagu
+202304,MATH,3201,001,Visual Art and Mathematics: an integrated understanding,25,Friday,10:00,12:50,T234,Roberta La Haye
+202304,MATH,4201,001,Seminar,15,Monday,08:30,11:20,EA1043,Pamini Thangarajah

@@ -14,6 +14,8 @@ class Includer {
 				line.delete = false;
 			}
 		}
+
+		return markableCsv;
 	}
 
 	shouldBeIncluded(line) {

@@ -14,6 +14,8 @@ class Excluder {
 				line.delete = true;
 			}
 		}
+
+		return markableCsv;
 	}
 
 	shouldBeExcluded(line) {
