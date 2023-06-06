@@ -1,17 +1,31 @@
 class Modifier {
-	constructor(fileContents) {
-		console.log(fileContents);
-		this.buildModifierList(fileContents);
+	constructor(modificationRules) {
+		this.buildModifierList(modificationRules);
 	}
 
-	buildModifierList(fileContents) {
-		const splitContents = fileContents.split("\n");
-		this.modifiers = splitContents.map(line => line.replace(/\s*>\s*/g, ">").split(">"));
+	buildModifierList(modificationRules) {
+		this.modifiers = undefined;
+
+		if (modificationRules !== "") {
+			const splitContents = modificationRules.split("\n");
+			this.modifiers = splitContents.map(line => line.replace(/\s*>\s*/g, ">").split(">"));
+		}
 	}
 
 	modify(markableCsv) {
-		const modifiedCsv = [];
-		for (const line of markableCsv) {
+		if (this.modifiers === undefined) {
+			return markableCsv;
+		}
+
+		const modifiedCsv = [markableCsv[0]]; // Add the header
+
+		for (let index = 1; index < markableCsv.length; index++) { // Skip header
+			const line = markableCsv[index];
+
+			if (line.delete) {
+				continue;
+			}
+
 			const modifiedEntry = {delete: line.delete};
 			modifiedEntry.content = this.applyModification(line);
 			modifiedCsv.push(modifiedEntry);
@@ -21,11 +35,14 @@ class Modifier {
 	}
 
 	applyModification(line) {
+		let lineContent = line.content;
+
 		for (const modificationTerms of this.modifiers) {
-			line = line.content.replaceAll(modificationTerms[0], modificationTerms[1]);
+			const regex = new RegExp(modificationTerms[0], "ig");
+			lineContent = lineContent.replaceAll(regex, modificationTerms[1]);
 		}
 
-		return line;
+		return lineContent;
 	}
 }
 

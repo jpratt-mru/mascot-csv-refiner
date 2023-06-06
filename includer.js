@@ -1,10 +1,10 @@
 class Includer {
-	constructor(fileContents) {
-		this.buildInclusionList(fileContents);
+	constructor(inclusionRules) {
+		this.buildInclusionList(inclusionRules);
 	}
 
-	buildInclusionList(fileContents) {
-		const splitContents = fileContents.split("\n");
+	buildInclusionList(inclusionRules) {
+		const splitContents = inclusionRules.split("\n");
 		this.inclusions = splitContents.map(line => line.split(","));
 	}
 

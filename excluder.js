@@ -1,26 +1,53 @@
+/**
+ * An Excluder marks markable csv lines matching criteria as being eligible
+ * for deletion, based on rules passed in to the constructor.
+ */
 class Excluder {
-	constructor(fileContents) {
-		this.buildExclusionList(fileContents);
+	constructor(exclusionRules) {
+		this.buildExclusionList(exclusionRules);
 	}
 
-	buildExclusionList(fileContents) {
-		const splitContents = fileContents.split("\n");
-		this.exlusions = splitContents.map(line => line.split(","));
+	buildExclusionList(exclusionRules) {
+		this.exclusions = undefined;
+		console.log(exclusionRules);
+
+		if (exclusionRules !== "") {
+			console.log("foo");
+			const splitContents = exclusionRules.split("\n");
+			this.exclusions = splitContents.map(line => line.split(","));
+			console.log(this.exclusions);
+		}
 	}
 
 	exclude(markableCsv) {
-		for (const line of markableCsv) {
-			if (this.shouldBeExcluded(line)) {
-				line.delete = true;
-			}
+		if (this.exclusions === undefined) {
+			console.log("ping");
+			return markableCsv;
 		}
 
-		return markableCsv;
+		const modifiedCsv = [markableCsv[0]];
+
+		for (let index = 1; index < markableCsv.length; index++) { // Skip header
+			const line = markableCsv[index];
+
+			const modifiedEntry = {
+				delete: line.delete,
+				content: line.content,
+			};
+
+			if (this.shouldBeExcluded(line)) {
+				modifiedEntry.delete = true;
+			}
+
+			modifiedCsv.push(modifiedEntry);
+		}
+
+		return modifiedCsv;
 	}
 
 	shouldBeExcluded(line) {
 		const lineAsFields = line.content.split(",");
-		for (const exclusionTerms of this.exlusions) {
+		for (const exclusionTerms of this.exclusions) {
 			if (this.matchesAllTerms(lineAsFields, exclusionTerms)) {
 				return true;
 			}
