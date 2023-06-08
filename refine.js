@@ -4,12 +4,11 @@
  */
 
 const fs = require("node:fs");
-const Modifier = require("./refiners/modifier.js");
-const Refiner = require("./refiners/refiner.js");
-// Const Includer = require("./refiners/includer.js");
+const RefinerFactory = require("./refiners/refiner-factory.js");
+const CsvUtils = require("./csv-utils/csv-utils.js");
 
 const SEMESTER = process.argv[2];
-const WORKING_DIR = `./refinements/${SEMESTER}`;
+const WORKING_DIR = `./semesters/${SEMESTER}`;
 
 const RAW_CSV = `${SEMESTER}-raw.csv`;
 const REFINED_CSV = `${SEMESTER}-refined.csv`;
@@ -17,25 +16,15 @@ const REFINED_CSV = `${SEMESTER}-refined.csv`;
 try {
 	const rawCsv = fs.readFileSync(`${WORKING_DIR}/${RAW_CSV}`, "utf8").trim();
 
-	const modificationsFileContents = fs.readFileSync(`${WORKING_DIR}/modifications.txt`, "utf8").trim();
 	const exclusionFileContents = fs.readFileSync(`${WORKING_DIR}/exclusions.txt`, "utf8").trim();
 	const inclusionFileContents = fs.readFileSync(`${WORKING_DIR}/inclusions.txt`, "utf8").trim();
+	const modificationsFileContents = fs.readFileSync(`${WORKING_DIR}/modifications.txt`, "utf8").trim();
 
-	let markableCsv = markableCsvFrom(rawCsv);
+	let markableCsv = CsvUtils.markableCsvFrom(rawCsv);
 
-	const modder = new Modifier(modificationsFileContents);
-
-	const excluder = new Refiner(exclusionFileContents,
-		entry => entry.delete === false,
-		entry => {
-			entry.delete = true;
-		});
-
-	const includer = new Refiner(inclusionFileContents,
-		entry => entry.delete === true,
-		entry => {
-			entry.delete = false;
-		});
+	const excluder = RefinerFactory.createExcluder(exclusionFileContents);
+	const includer = RefinerFactory.createIncluder(inclusionFileContents);
+	const modder = RefinerFactory.createModifer(modificationsFileContents);
 
 	// The order here IS important: preliminary exclusions need to happen first,
 	// then inclusions can "undo" exclusions that need to be undone, and then
@@ -44,7 +33,7 @@ try {
 	markableCsv = includer.refined(markableCsv);
 	markableCsv = modder.refined(markableCsv);
 
-	const refinedCsv = refinedCsvFrom(markableCsv);
+	const refinedCsv = CsvUtils.refinedCsvFrom(markableCsv);
 
 	try {
 		fs.writeFileSync(`${WORKING_DIR}/${REFINED_CSV}`, refinedCsv);
@@ -56,39 +45,3 @@ try {
 	console.error(`Encountered this error attempting to read the raw csv: ${error}`);
 }
 
-/**
- * A "markable csv" is a list of lines from a csv - but now each line
- * is turned into a JS object of the form:
- * {
- *   delete: false,
- *   content: (original line from csv)
- * }
- *
- * This allows us to mark a line for deletion by setting delete: true...which
- * allows us to later "undelete" it if an inclusion rule requires it by setting
- * delete: false again.
- *
- * @param {*} csv
- * @returns A markable csv, as explained above.
- */
-function markableCsvFrom(csv) {
-	const csvLines = csv.split("\n");
-	return csvLines.map(line => ({
-		delete: false,
-		content: line,
-	}));
-}
-
-/**
- * Create the csv from the markable csv - we only want the content
- * of lines that aren't marked for deletion.
- *
- * @param {*} markableCsv
- * @returns A "real" csv with all excluded lines removed.
- */
-function refinedCsvFrom(markableCsv) {
-	return markableCsv
-		.filter(line => !line.delete)
-		.map(line => line.content)
-		.join("\n");
-}

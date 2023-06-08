@@ -1,3 +1,4 @@
+term,subject,course,section,title,capacity,dow,start,end,room,instructor
 202401,COMP,1103,001,Introduction to Computers,50,Tuesday,08:30,09:50,W316,Alan Fedoruk
 202401,COMP,1103,001,Introduction to Computers,50,Thursday,08:30,09:50,W316,Alan Fedoruk
 202401,COMP,1103,002,Introduction to Computers,50,Monday,16:00,17:20,W316,TBA

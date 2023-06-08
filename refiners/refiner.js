@@ -2,18 +2,25 @@
  * Superclass for Excluders, Includers, and Modifiers.
  */
 class Refiner {
-	constructor(rulesAsText, refinementPossible, refine) {
-		this.buildRulesList(rulesAsText);
+	/**
+	 *
+	 * @param {*} rulesAsText are 0 or more lines of comma-separated rules
+	 * @param {*} refinementPossible is a callback determining whether refining is even possible for a given line in a csv
+	 * @param {*} refine is a callback which refines the content of a csv entry
+	 */
+	constructor(rulesAsText, lineTransform, refinementPossible, refinementApplicable, refine) {
+		this.buildRulesList(rulesAsText, lineTransform);
 		this.refinementPossible = refinementPossible;
+		this.refinementApplicable = refinementApplicable;
 		this.refine = refine;
 	}
 
-	buildRulesList(rulesAsText) {
+	buildRulesList(rulesAsText, lineTransform) {
 		this.rulesList = undefined;
 
 		if (rulesAsText !== "") {
 			const splitContents = rulesAsText.split("\n");
-			this.rulesList = splitContents.map(line => line.split(","));
+			this.rulesList = splitContents.map(line => lineTransform(line));
 		}
 	}
 
@@ -33,37 +40,13 @@ class Refiner {
 			};
 
 			if (this.refinementPossible(line) && this.refinementApplicable(line)) {
-				this.refine(entry);
+				this.refine(entry, this.rulesList);
 			}
 
 			refinedCsv.push(entry);
 		}
 
 		return refinedCsv;
-	}
-
-	refinementApplicable(line) {
-		const lineAsFields = line.content.split(",");
-		for (const ruleTerms of this.rulesList) {
-			if (this.matchesAllTerms(lineAsFields, ruleTerms)) {
-				return true;
-			}
-		}
-
-		return false;
-	}
-
-	matchesAllTerms(lineAsFields, ruleTerms) {
-		let numberMatches = 0;
-		for (const term of ruleTerms) {
-			const regex = new RegExp(`^${term}$`, "ig");
-
-			if (lineAsFields.some(field => regex.test(field))) {
-				numberMatches++;
-			}
-		}
-
-		return numberMatches === ruleTerms.length;
 	}
 }
 

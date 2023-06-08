@@ -1,3 +1,4 @@
+term,subject,course,section,title,capacity,dow,start,end,room,instructor
 202304,COMP,1103,001,Introduction to Computers,50,Wednesday,13:00,14:20,W322,TBA
 202304,COMP,1103,001,Introduction to Computers,50,Friday,13:00,14:20,W322,TBA
 202304,COMP,1103,002,Introduction to Computers,50,Tuesday,10:00,11:20,O226,TBA
