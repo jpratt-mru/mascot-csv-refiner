@@ -4,13 +4,14 @@
  */
 
 const fs = require("node:fs");
-const Modifier = require("./modifier.js");
-const Excluder = require("./excluder.js");
-const Includer = require("./includer.js");
+const Modifier = require("./refiners/modifier.js");
+const Refiner = require("./refiners/refiner.js");
+// Const Includer = require("./refiners/includer.js");
 
 const SEMESTER = process.argv[2];
-const RAW_CSV = `${SEMESTER}-raw.csv`;
 const WORKING_DIR = `./refinements/${SEMESTER}`;
+
+const RAW_CSV = `${SEMESTER}-raw.csv`;
 const REFINED_CSV = `${SEMESTER}-refined.csv`;
 
 try {
@@ -23,15 +24,25 @@ try {
 	let markableCsv = markableCsvFrom(rawCsv);
 
 	const modder = new Modifier(modificationsFileContents);
-	const excluder = new Excluder(exclusionFileContents);
-	const includer = new Includer(inclusionFileContents);
+
+	const excluder = new Refiner(exclusionFileContents,
+		entry => entry.delete === false,
+		entry => {
+			entry.delete = true;
+		});
+
+	const includer = new Refiner(inclusionFileContents,
+		entry => entry.delete === true,
+		entry => {
+			entry.delete = false;
+		});
 
 	// The order here IS important: preliminary exclusions need to happen first,
 	// then inclusions can "undo" exclusions that need to be undone, and then
 	// you can modify things that are left standing.
-	markableCsv = excluder.exclude(markableCsv);
-	markableCsv = includer.include(markableCsv);
-	markableCsv = modder.modify(markableCsv);
+	markableCsv = excluder.refined(markableCsv);
+	markableCsv = includer.refined(markableCsv);
+	markableCsv = modder.refined(markableCsv);
 
 	const refinedCsv = refinedCsvFrom(markableCsv);
 

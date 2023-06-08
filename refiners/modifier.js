@@ -12,12 +12,12 @@ class Modifier {
 		}
 	}
 
-	modify(markableCsv) {
+	refined(markableCsv) {
 		if (this.modifiers === undefined) {
 			return markableCsv;
 		}
 
-		const modifiedCsv = [markableCsv[0]]; // Add the header
+		const refinedCsv = [markableCsv[0]]; // Add the header
 
 		for (let index = 1; index < markableCsv.length; index++) { // Skip header
 			const line = markableCsv[index];
@@ -28,10 +28,10 @@ class Modifier {
 
 			const modifiedEntry = {delete: line.delete};
 			modifiedEntry.content = this.applyModification(line);
-			modifiedCsv.push(modifiedEntry);
+			refinedCsv.push(modifiedEntry);
 		}
 
-		return modifiedCsv;
+		return refinedCsv;
 	}
 
 	applyModification(line) {

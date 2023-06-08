@@ -1,0 +1,434 @@
+term,subject,course,section,title,capacity,dow,start,end,room,instructor
+202101,COMP,1103,001,Introduction to Computers,50,Wednesday,10:00,11:20,None,Mahsa Amini Tareh
+202101,COMP,1103,001,Introduction to Computers,50,Friday,10:00,11:20,None,Mahsa Amini Tareh
+202101,COMP,1103,002,Introduction to Computers,50,Monday,13:00,14:20,None,Jim Davis
+202101,COMP,1103,002,Introduction to Computers,50,Wednesday,13:00,14:20,None,Jim Davis
+202101,COMP,1103,003,Introduction to Computers,50,Monday,11:30,12:50,None,Patrick Perri
+202101,COMP,1103,003,Introduction to Computers,50,Wednesday,11:30,12:50,None,Patrick Perri
+202101,COMP,1103,501,Introduction to Computers,25,Tuesday,15:30,16:20,None,Mahsa Amini Tareh
+202101,COMP,1103,502,Introduction to Computers,25,Tuesday,14:30,15:20,None,Mahsa Amini Tareh
+202101,COMP,1103,503,Introduction to Computers,25,Tuesday,12:30,13:20,None,Jim Davis
+202101,COMP,1103,504,Introduction to Computers,25,Tuesday,13:30,14:20,None,Jim Davis
+202101,COMP,1103,505,Introduction to Computers,25,Thursday,08:30,09:20,None,Patrick Perri
+202101,COMP,1103,506,Introduction to Computers,25,Thursday,09:30,10:20,None,Patrick Perri
+202101,COMP,1501,001,Programming I,20,Monday,14:30,15:50,None,Mahsa Amini Tareh
+202101,COMP,1501,001,Programming I,20,Wednesday,14:30,15:50,None,Mahsa Amini Tareh
+202101,COMP,1501,101,Programming I,20,Monday,14:30,15:50,None,Mahsa Amini Tareh
+202101,COMP,1501,101,Programming I,20,Wednesday,14:30,15:50,None,Mahsa Amini Tareh
+202101,COMP,1501,401,Programming I,20,Tuesday,12:00,12:50,None,Mahsa Amini Tareh
+202101,COMP,1501,402,Programming I,20,Tuesday,13:00,13:50,None,Mahsa Amini Tareh
+202101,COMP,1501,501,Programming I,20,Friday,13:00,13:50,None,Mahsa Amini Tareh
+202101,COMP,1501,502,Programming I,20,Friday,14:00,14:50,None,Mahsa Amini Tareh
+202101,COMP,1502,001,ProgrammingII Object Oriented,40,Monday,14:30,15:50,None,Khosro Salmani
+202101,COMP,1502,002,ProgrammingII Object Oriented,60,Monday,10:00,11:20,None,Munima Jahan
+202101,COMP,1502,002,ProgrammingII Object Oriented,60,Wednesday,10:00,11:20,None,Munima Jahan
+202101,COMP,1502,401,ProgrammingII Object Oriented,20,Tuesday,10:00,10:50,None,Khosro Salmani
+202101,COMP,1502,402,ProgrammingII Object Oriented,20,Tuesday,11:00,11:50,None,Khosro Salmani
+202101,COMP,1502,403,ProgrammingII Object Oriented,20,Thursday,12:00,12:50,None,Munima Jahan
+202101,COMP,1502,404,ProgrammingII Object Oriented,20,Thursday,13:00,13:50,None,Munima Jahan
+202101,COMP,1502,405,ProgrammingII Object Oriented,20,Thursday,14:00,14:50,None,Munima Jahan
+202101,COMP,1502,501,ProgrammingII Object Oriented,20,Thursday,10:00,10:50,None,Khosro Salmani
+202101,COMP,1502,502,ProgrammingII Object Oriented,20,Thursday,11:00,11:50,None,Khosro Salmani
+202101,COMP,1502,503,ProgrammingII Object Oriented,20,Friday,10:00,10:50,None,Munima Jahan
+202101,COMP,1502,504,ProgrammingII Object Oriented,20,Friday,11:00,11:50,None,Munima Jahan
+202101,COMP,1502,505,ProgrammingII Object Oriented,20,Friday,12:00,12:50,None,Munima Jahan
+202101,COMP,1615,001,Introduction to Programming,35,Monday,08:30,09:50,None,Jim Davis
+202101,COMP,1615,001,Introduction to Programming,35,Wednesday,08:30,09:50,None,Jim Davis
+202101,COMP,1615,401,Introduction to Programming,35,Monday,11:30,12:20,None,Jim Davis
+202101,COMP,1633,001,Intro Computer Science II,60,Monday,12:00,12:50,None,Paul Pospisil
+202101,COMP,1633,001,Intro Computer Science II,60,Tuesday,12:00,12:50,None,Paul Pospisil
+202101,COMP,1633,001,Intro Computer Science II,60,Thursday,12:00,12:50,None,Paul Pospisil
+202101,COMP,1633,401,Intro Computer Science II,20,Wednesday,12:00,12:50,None,Paul Pospisil
+202101,COMP,1633,401,Intro Computer Science II,20,Friday,12:00,12:50,None,Paul Pospisil
+202101,COMP,1633,402,Intro Computer Science II,20,Wednesday,11:00,11:50,None,Paul Pospisil
+202101,COMP,1633,402,Intro Computer Science II,20,Friday,11:00,11:50,None,Paul Pospisil
+202101,COMP,1633,403,Intro Computer Science II,20,Wednesday,10:00,10:50,None,Paul Pospisil
+202101,COMP,1633,403,Intro Computer Science II,20,Friday,10:00,10:50,None,Paul Pospisil
+202101,COMP,2001,001,Programming for the Sciences,50,Monday,10:30,11:20,None,Patrick Perri
+202101,COMP,2001,001,Programming for the Sciences,50,Wednesday,10:30,11:20,None,Patrick Perri
+202101,COMP,2001,001,Programming for the Sciences,50,Friday,10:30,11:20,None,Patrick Perri
+202101,COMP,2001,401,Programming for the Sciences,25,Tuesday,10:30,11:20,None,Patrick Perri
+202101,COMP,2001,401,Programming for the Sciences,25,Thursday,10:30,11:20,None,Patrick Perri
+202101,COMP,2001,402,Programming for the Sciences,25,Tuesday,15:30,16:20,None,Patrick Perri
+202101,COMP,2001,402,Programming for the Sciences,25,Thursday,15:30,16:20,None,Patrick Perri
+202101,COMP,2008,001,Sci Comp I: Mod & Sim,40,Monday,13:00,14:20,None,Charles Hepler
+202101,COMP,2008,001,Sci Comp I: Mod & Sim,40,Wednesday,13:00,14:20,None,Charles Hepler
+202101,COMP,2008,401,Sci Comp I: Mod & Sim,20,Tuesday,16:30,17:20,None,Charles Hepler
+202101,COMP,2008,402,Sci Comp I: Mod & Sim,20,Monday,16:30,17:20,None,Charles Hepler
+202101,COMP,2503,001,Programming III:Data Structure,40,Wednesday,10:00,11:20,None,Jordan Pratt
+202101,COMP,2503,001,Programming III:Data Structure,40,Friday,10:00,11:20,None,Jordan Pratt
+202101,COMP,2503,401,Programming III:Data Structure,20,Thursday,12:30,13:20,None,Jordan Pratt
+202101,COMP,2503,402,Programming III:Data Structure,20,Thursday,13:30,14:20,None,Jordan Pratt
+202101,COMP,2511,001,Web I: Client Development,40,Tuesday,13:00,14:20,None,Yasaman Amannejad
+202101,COMP,2511,001,Web I: Client Development,40,Thursday,13:00,14:20,None,Yasaman Amannejad
+202101,COMP,2511,002,Web I: Client Development,60,Monday,13:00,14:20,None,Khosro Salmani
+202101,COMP,2511,501,Web I: Client Development,20,Wednesday,10:00,10:50,None,Yasaman Amannejad
+202101,COMP,2511,502,Web I: Client Development,20,Wednesday,11:00,11:50,None,Yasaman Amannejad
+202101,COMP,2511,503,Web I: Client Development,20,Tuesday,14:00,14:50,None,Khosro Salmani
+202101,COMP,2511,504,Web I: Client Development,20,Tuesday,15:00,15:50,None,Khosro Salmani
+202101,COMP,2511,505,Web I: Client Development,20,Wednesday,12:00,12:50,None,Khosro Salmani
+202101,COMP,2521,001,Database I: Modelling & Query,40,Monday,14:30,15:50,None,Shoba Ittyipe
+202101,COMP,2521,001,Database I: Modelling & Query,40,Wednesday,14:30,15:50,None,Shoba Ittyipe
+202101,COMP,2521,401,Database I: Modelling & Query,20,Tuesday,13:30,14:20,None,Shoba Ittyipe
+202101,COMP,2521,402,Database I: Modelling & Query,20,Tuesday,14:30,15:20,None,Shoba Ittyipe
+202101,COMP,2531,001,Architecture & OperatingSystem,60,Monday,11:30,12:50,None,Shoba Ittyipe
+202101,COMP,2531,001,Architecture & OperatingSystem,60,Wednesday,11:30,12:50,None,Shoba Ittyipe
+202101,COMP,2531,501,Architecture & OperatingSystem,20,Tuesday,08:30,09:20,None,Shoba Ittyipe
+202101,COMP,2531,502,Architecture & OperatingSystem,20,Tuesday,09:30,10:20,None,Shoba Ittyipe
+202101,COMP,2531,503,Architecture & OperatingSystem,20,Tuesday,12:30,13:20,None,Shoba Ittyipe
+202101,COMP,2541,001,Systems Analysis,60,Monday,13:00,14:20,None,Shoba Ittyipe
+202101,COMP,2541,001,Systems Analysis,60,Wednesday,13:00,14:20,None,Shoba Ittyipe
+202101,COMP,2541,401,Systems Analysis,20,Tuesday,09:30,10:20,None,Shoba Ittyipe
+202101,COMP,2541,402,Systems Analysis,20,Tuesday,11:30,12:20,None,Shoba Ittyipe
+202101,COMP,2541,403,Systems Analysis,20,Tuesday,10:30,11:20,None,Shoba Ittyipe
+202101,COMP,2633,001,Foundations-Software Engineer,30,Monday,14:30,15:50,None,Michael Uzoka
+202101,COMP,2633,001,Foundations-Software Engineer,30,Wednesday,14:30,15:50,None,Michael Uzoka
+202101,COMP,2633,401,Foundations-Software Engineer,30,Monday,10:30,12:20,None,Michael Uzoka
+202101,COMP,2659,001,Computing Machinery,27,Tuesday,08:30,09:50,E145,Paul Pospisil
+202101,COMP,2659,001,Computing Machinery,27,Thursday,08:30,09:50,E145,Paul Pospisil
+202101,COMP,2659,401,Computing Machinery,27,Friday,13:30,14:20,EL1470,Paul Pospisil
+202101,COMP,2659,501,Computing Machinery,27,Friday,14:30,15:20,EL1470,Paul Pospisil
+202101,COMP,3309,001,Info Technology and Society,40,Tuesday,11:30,12:50,None,Randy Connolly
+202101,COMP,3309,001,Info Technology and Society,40,Thursday,11:30,12:50,None,Randy Connolly
+202101,COMP,3309,002,Info Technology and Society,40,Tuesday,13:00,14:20,None,Patrick Perri
+202101,COMP,3309,002,Info Technology and Society,40,Thursday,13:00,14:20,None,Patrick Perri
+202101,COMP,3505,001,Software Testing,40,Wednesday,14:30,15:50,None,Yasaman Amannejad
+202101,COMP,3505,001,Software Testing,40,Friday,14:30,15:50,None,Yasaman Amannejad
+202101,COMP,3505,501,Software Testing,20,Thursday,14:30,15:20,None,Yasaman Amannejad
+202101,COMP,3505,502,Software Testing,20,Thursday,15:30,16:20,None,Yasaman Amannejad
+202101,COMP,3512,001,Web II: Web Application & Dev,40,Wednesday,16:00,17:20,None,Randy Connolly
+202101,COMP,3512,001,Web II: Web Application & Dev,40,Friday,16:00,17:20,None,Randy Connolly
+202101,COMP,3512,401,Web II: Web Application & Dev,20,Monday,13:30,14:20,None,Randy Connolly
+202101,COMP,3512,402,Web II: Web Application & Dev,20,Monday,14:30,15:20,None,Randy Connolly
+202101,COMP,3532,001,System Admin an Maintenance,40,Monday,11:30,12:50,None,Steve Kalmar
+202101,COMP,3532,001,System Admin an Maintenance,40,Wednesday,11:30,12:50,None,Steve Kalmar
+202101,COMP,3532,501,System Admin an Maintenance,20,Monday,10:30,11:20,None,Steve Kalmar
+202101,COMP,3532,502,System Admin an Maintenance,20,Monday,09:30,10:20,None,Steve Kalmar
+202101,COMP,3533,001,Network Infrastructure,32,Monday,11:30,12:50,None,Mingwei Gong
+202101,COMP,3533,001,Network Infrastructure,32,Wednesday,11:30,12:50,None,Mingwei Gong
+202101,COMP,3533,501,Network Infrastructure,16,Tuesday,09:00,09:50,None,Mingwei Gong
+202101,COMP,3533,502,Network Infrastructure,16,Tuesday,11:30,12:20,None,Mingwei Gong
+202101,COMP,3553,001,Human-Computer Interaction,40,Wednesday,08:30,09:50,None,Sohaib Bajwa
+202101,COMP,3553,001,Human-Computer Interaction,40,Friday,08:30,09:50,None,Sohaib Bajwa
+202101,COMP,3553,401,Human-Computer Interaction,20,Monday,13:30,14:20,None,Sohaib Bajwa
+202101,COMP,3553,402,Human-Computer Interaction,20,Monday,14:30,15:20,None,Sohaib Bajwa
+202101,COMP,3649,001,Programming Paradigms,25,Tuesday,11:30,12:50,None,Maryam Elahi
+202101,COMP,3649,001,Programming Paradigms,25,Thursday,11:30,12:50,None,Maryam Elahi
+202101,COMP,3649,401,Programming Paradigms,25,Wednesday,12:30,14:20,None,Maryam Elahi
+202101,COMP,3659,001,Operating Systems,35,Tuesday,14:30,15:50,E103,Marc Schroeder
+202101,COMP,3659,001,Operating Systems,35,Thursday,14:30,15:50,E103,Marc Schroeder
+202101,COMP,3659,501,Operating Systems,35,Wednesday,11:00,11:50,EL1470,Marc Schroeder
+202101,COMP,3659,501,Operating Systems,35,Friday,11:00,11:50,EL1470,Marc Schroeder
+202101,COMP,4522,001,Database II:Advanced Database,42,Wednesday,10:00,11:20,None,Alan Fedoruk
+202101,COMP,4522,001,Database II:Advanced Database,42,Friday,10:00,11:20,None,Alan Fedoruk
+202101,COMP,4543,001,Project Mgmt & Quality Assuran,35,Tuesday,10:00,11:20,None,Terri Tibbel-Mosher
+202101,COMP,4543,001,Project Mgmt & Quality Assuran,35,Thursday,10:00,11:20,None,Terri Tibbel-Mosher
+202101,COMP,4635,001,Distributed Systems,29,Tuesday,10:00,11:20,None,Maryam Elahi
+202101,COMP,4635,001,Distributed Systems,29,Thursday,10:00,11:20,None,Maryam Elahi
+202101,COMP,4635,401,Distributed Systems,29,Wednesday,10:00,10:50,None,Maryam Elahi
+202101,GNED,1101,002,Sci & Mathematical Literacy,40,Monday,10:00,11:20,None,Andria Dawson
+202101,GNED,1101,002,Sci & Mathematical Literacy,40,Wednesday,10:00,11:20,None,Andria Dawson
+202101,GNED,1101,003,Sci & Mathematical Literacy,40,Monday,13:00,14:20,None,Laura Hauck
+202101,GNED,1101,005,Sci & Mathematical Literacy,25,Monday,13:00,14:20,None,Tabussom Qureshi
+202101,GNED,1101,005,Sci & Mathematical Literacy,25,Wednesday,13:00,14:20,None,Tabussom Qureshi
+202101,GNED,1101,006,Sci & Mathematical Literacy,40,Tuesday,10:00,11:20,None,Monique Horbay
+202101,GNED,1101,006,Sci & Mathematical Literacy,40,Thursday,10:00,11:20,None,Monique Horbay
+202101,GNED,1101,007,Sci & Mathematical Literacy,40,Tuesday,16:00,17:20,None,Nick Strzalkowski
+202101,GNED,1101,007,Sci & Mathematical Literacy,40,Thursday,16:00,17:20,None,Nick Strzalkowski
+202101,GNED,1101,008,Sci & Mathematical Literacy,40,Tuesday,14:30,15:50,None,Nick Strzalkowski
+202101,GNED,1101,008,Sci & Mathematical Literacy,40,Thursday,14:30,15:50,None,Nick Strzalkowski
+202101,GNED,1101,009,Sci & Mathematical Literacy,40,Monday,08:30,09:50,None,Andria Dawson
+202101,GNED,1101,009,Sci & Mathematical Literacy,40,Wednesday,08:30,09:50,None,Andria Dawson
+202101,GNED,1101,010,Sci & Mathematical Literacy,40,Monday,11:30,12:50,None,Laura Hauck
+202101,GNED,1101,011,Sci & Mathematical Literacy,40,Tuesday,11:30,12:50,None,Henry Asante
+202101,GNED,1101,011,Sci & Mathematical Literacy,40,Thursday,11:30,12:50,None,Henry Asante
+202101,GNED,1101,015,Sci & Mathematical Literacy,40,Tuesday,13:00,14:20,None,Kumar Chandrasekhar
+202101,GNED,1101,015,Sci & Mathematical Literacy,40,Thursday,13:00,14:20,None,Kumar Chandrasekhar
+202101,GNED,1101,019,Sci & Mathematical Literacy,40,Monday,14:30,15:50,None,Shirangi Fernando
+202101,GNED,1101,019,Sci & Mathematical Literacy,40,Wednesday,14:30,15:50,None,Shirangi Fernando
+202101,GNED,1101,020,Sci & Mathematical Literacy,40,Monday,16:00,17:20,None,Shirangi Fernando
+202101,GNED,1101,020,Sci & Mathematical Literacy,40,Wednesday,16:00,17:20,None,Shirangi Fernando
+202101,GNED,1101,065,Sci & Mathematical Literacy,15,Monday,13:00,14:20,None,Tabussom Qureshi
+202101,GNED,1101,065,Sci & Mathematical Literacy,15,Wednesday,13:00,14:20,None,Tabussom Qureshi
+202101,GNED,1103,001,Innovation,40,Monday,13:00,14:20,None,Laura Marik
+202101,GNED,1103,001,Innovation,40,Wednesday,13:00,14:20,None,Laura Marik
+202101,GNED,1103,003,Innovation,40,Wednesday,18:00,19:20,None,Steven O'Krancy
+202101,GNED,1103,004,Innovation,40,Monday,11:30,12:50,None,Laura Marik
+202101,GNED,1103,004,Innovation,40,Wednesday,11:30,12:50,None,Laura Marik
+202101,GNED,1103,005,Innovation,40,Tuesday,13:00,14:20,None,Henry Asante
+202101,GNED,1103,005,Innovation,40,Thursday,13:00,14:20,None,Henry Asante
+202101,GNED,1103,007,Innovation,40,Tuesday,16:00,17:20,None,Steven O'Krancy
+202101,GNED,1103,008,Innovation,40,Tuesday,14:30,15:50,None,Henry Asante
+202101,GNED,1103,008,Innovation,40,Thursday,14:30,15:50,None,Henry Asante
+202101,GNED,1103,009,Innovation,40,Monday,08:30,09:50,None,Charles Hepler
+202101,GNED,1103,009,Innovation,40,Wednesday,08:30,09:50,None,Charles Hepler
+202101,GNED,1201,001,Aesthetic Experience and Ideas,40,Monday,10:00,11:20,None,Ghada Alatrash
+202101,GNED,1201,002,Aesthetic Experience and Ideas,40,Monday,14:30,15:30,None,Linda Jennifer Neilson
+202101,GNED,1201,002,Aesthetic Experience and Ideas,40,Wednesday,14:30,15:30,None,Linda Jennifer Neilson
+202101,GNED,1201,003,Aesthetic Experience and Ideas,40,Thursday,10:00,11:20,None,Janna Sailor
+202101,GNED,1201,005,Aesthetic Experience and Ideas,40,Monday,13:00,14:00,None,Linda Jennifer Neilson
+202101,GNED,1201,005,Aesthetic Experience and Ideas,40,Wednesday,13:00,14:00,None,Linda Jennifer Neilson
+202101,GNED,1201,007,Aesthetic Experience and Ideas,40,Tuesday,13:00,14:20,None,Sarah Matheson
+202101,GNED,1201,010,Aesthetic Experience and Ideas,40,Wednesday,13:00,14:20,None,Guy Obrecht
+202101,GNED,1201,012,Aesthetic Experience and Ideas,40,Wednesday,13:00,14:20,None,Guy Obrecht
+202101,GNED,1201,014,Aesthetic Experience and Ideas,40,Monday,16:00,17:20,None,Shane Halasz
+202101,GNED,1201,014,Aesthetic Experience and Ideas,40,Wednesday,16:00,17:20,None,Shane Halasz
+202101,GNED,1202,001,Texts and Ideas,40,Tuesday,13:00,14:00,None,Aaron Johnson
+202101,GNED,1202,001,Texts and Ideas,40,Thursday,13:00,14:00,None,Aaron Johnson
+202101,GNED,1202,002,Texts and Ideas,40,Tuesday,13:00,14:20,None,Tracy Derynck
+202101,GNED,1202,002,Texts and Ideas,40,Thursday,13:00,14:20,None,Tracy Derynck
+202101,GNED,1202,003,Texts and Ideas,40,Monday,13:00,14:20,None,Allison Dube
+202101,GNED,1202,003,Texts and Ideas,40,Wednesday,13:00,14:20,None,Allison Dube
+202101,GNED,1202,004,Texts and Ideas,40,Monday,11:30,12:50,None,Allison Dube
+202101,GNED,1202,004,Texts and Ideas,40,Wednesday,11:30,12:50,None,Allison Dube
+202101,GNED,1202,005,Texts and Ideas,35,Tuesday,11:30,12:50,None,Tracy Derynck
+202101,GNED,1202,005,Texts and Ideas,35,Thursday,11:30,12:50,None,Tracy Derynck
+202101,GNED,1202,006,Texts and Ideas,40,Monday,16:00,17:20,None,Yasmin Merchant
+202101,GNED,1202,006,Texts and Ideas,40,Wednesday,16:00,17:20,None,Yasmin Merchant
+202101,GNED,1202,007,Texts and Ideas,40,Tuesday,16:00,17:20,None,Shane Halasz
+202101,GNED,1202,007,Texts and Ideas,40,Thursday,16:00,17:20,None,Shane Halasz
+202101,GNED,1202,008,Texts and Ideas,40,Tuesday,14:30,15:50,None,Tashi Tsering
+202101,GNED,1202,008,Texts and Ideas,40,Thursday,14:30,15:50,None,Tashi Tsering
+202101,GNED,1202,009,Texts and Ideas,40,Tuesday,10:00,11:20,None,Tashi Tsering
+202101,GNED,1202,009,Texts and Ideas,40,Thursday,10:00,11:20,None,Tashi Tsering
+202101,GNED,1202,010,Texts and Ideas,40,Tuesday,08:30,09:50,None,Michael Sauve
+202101,GNED,1202,011,Texts and Ideas,40,Wednesday,10:00,11:00,None,Emily Hutchison  Carolyn Willekes
+202101,GNED,1202,012,Texts and Ideas,40,Friday,10:30,12:00,None,Sean Cook
+202101,GNED,1202,013,Texts and Ideas,40,Wednesday,14:30,15:50,None,Sean Cook
+202101,GNED,1202,065,Texts and Ideas,5,Tuesday,11:30,12:50,None,Tracy Derynck
+202101,GNED,1202,065,Texts and Ideas,5,Thursday,11:30,12:50,None,Tracy Derynck
+202101,GNED,1203,003,Cultural Perspectives on Sci,40,Tuesday,11:30,12:50,None,Guy Obrecht
+202101,GNED,1203,005,Cultural Perspectives on Sci,40,Monday,11:30,12:50,None,Karim Youssef
+202101,GNED,1203,005,Cultural Perspectives on Sci,40,Wednesday,11:30,12:50,None,Karim Youssef
+202101,GNED,1203,009,Cultural Perspectives on Sci,40,Tuesday,14:30,15:20,None,James Cunningham
+202101,GNED,1203,009,Cultural Perspectives on Sci,40,Thursday,14:30,15:20,None,James Cunningham
+202101,GNED,1301,002,Citizenship Without Borders,40,Thursday,08:30,09:50,None,Sarah Brown
+202101,GNED,1301,004,Citizenship Without Borders,40,Wednesday,11:30,12:30,None,Chris Moxham
+202101,GNED,1301,005,Citizenship Without Borders,40,Wednesday,09:00,09:50,None,Chris Moxham
+202101,GNED,1301,006,Citizenship Without Borders,40,Monday,14:30,15:50,None,Ghada Alatrash
+202101,GNED,1301,008,Citizenship Without Borders,40,Wednesday,10:00,11:00,None,Chris Moxham
+202101,GNED,1301,010,Citizenship Without Borders,40,Tuesday,14:30,15:50,None,Lorenzo Petrin
+202101,GNED,1301,011,Citizenship Without Borders,40,Tuesday,10:00,11:20,None,Zahra Ismail
+202101,GNED,1301,011,Citizenship Without Borders,40,Thursday,10:00,11:20,None,Zahra Ismail
+202101,GNED,1301,013,Citizenship Without Borders,40,Tuesday,11:30,12:50,None,Karen Pheasant Pheasant-Neganigwane
+202101,GNED,1301,013,Citizenship Without Borders,40,Thursday,11:30,12:50,None,Karen Pheasant Pheasant-Neganigwane
+202101,GNED,1303,001,Conflict & the Social Context,40,Friday,09:00,11:00,None,David Ohreen
+202101,GNED,1303,002,Conflict & the Social Context,40,Friday,09:00,11:00,None,Glen Ryland
+202101,GNED,1303,003,Conflict & the Social Context,40,Wednesday,11:30,12:50,None,Victoria Simmons
+202101,GNED,1303,004,Conflict & the Social Context,40,Wednesday,14:30,15:50,None,Victoria Simmons
+202101,GNED,1303,006,Conflict & the Social Context,40,Monday,16:00,17:20,None,Tashi Tsering
+202101,GNED,1303,006,Conflict & the Social Context,40,Wednesday,16:00,17:20,None,Tashi Tsering
+202101,GNED,1303,007,Conflict & the Social Context,40,Wednesday,10:00,11:20,None,Murray Peglar
+202101,GNED,1303,008,Conflict & the Social Context,40,Tuesday,16:00,17:20,None,Lorenzo Petrin
+202101,GNED,1303,009,Conflict & the Social Context,40,Tuesday,14:30,15:50,None,Shane Halasz
+202101,GNED,1303,009,Conflict & the Social Context,40,Thursday,14:30,15:50,None,Shane Halasz
+202101,GNED,1303,010,Conflict & the Social Context,40,Tuesday,18:00,20:50,None,Chris Moxham
+202101,GNED,1304,001,Communities and Societies,40,Monday,18:00,20:50,None,Karen Pheasant Pheasant-Neganigwane
+202101,GNED,1304,002,Communities and Societies,40,Saturday,09:00,11:50,None,Karen Pheasant Pheasant-Neganigwane
+202101,GNED,1304,003,Communities and Societies,40,Tuesday,13:00,14:20,None,Cynthia Gallop
+202101,GNED,1304,003,Communities and Societies,40,Thursday,13:00,14:20,None,Cynthia Gallop
+202101,GNED,1304,004,Communities and Societies,40,Tuesday,11:30,12:50,None,Cynthia Gallop
+202101,GNED,1304,004,Communities and Societies,40,Thursday,11:30,12:50,None,Cynthia Gallop
+202101,GNED,1304,005,Communities and Societies,35,Monday,14:30,15:50,None,Nina Morgan
+202101,GNED,1304,005,Communities and Societies,35,Wednesday,14:30,15:50,None,Nina Morgan
+202101,GNED,1304,006,Communities and Societies,40,Tuesday,10:00,11:20,None,Christine Giancarlo
+202101,GNED,1304,006,Communities and Societies,40,Thursday,10:00,11:20,None,Christine Giancarlo
+202101,GNED,1304,007,Communities and Societies,40,Wednesday,16:00,17:20,None,Karim Youssef
+202101,GNED,1304,008,Communities and Societies,40,Monday,13:00,14:20,None,Christine Giancarlo
+202101,GNED,1304,008,Communities and Societies,40,Wednesday,13:00,14:20,None,Christine Giancarlo
+202101,GNED,1304,009,Communities and Societies,40,Wednesday,11:30,12:50,None,Cynthia Gallop
+202101,GNED,1304,009,Communities and Societies,40,Friday,11:30,12:50,None,Cynthia Gallop
+202101,GNED,1304,010,Communities and Societies,40,Monday,13:00,14:20,None,Enrique Lopez
+202101,GNED,1304,010,Communities and Societies,40,Wednesday,13:00,14:20,None,Enrique Lopez
+202101,GNED,1304,011,Communities and Societies,40,Wednesday,10:00,11:20,None,Karim Youssef
+202101,GNED,1304,013,Communities and Societies,40,Monday,08:30,09:50,None,Bassem Hafez  Heather Nelson
+202101,GNED,1304,013,Communities and Societies,40,Wednesday,08:30,09:50,None,Bassem Hafez  Heather Nelson
+202101,GNED,1304,014,Communities and Societies,40,Tuesday,16:00,17:20,None,James Cunningham
+202101,GNED,1304,065,Communities and Societies,5,Monday,14:30,15:50,None,Nina Morgan
+202101,GNED,1304,065,Communities and Societies,5,Wednesday,14:30,15:50,None,Nina Morgan
+202101,GNED,1401,001,Writing for Academic Success,32,Tuesday,11:30,13:20,None,Elaine Mullen
+202101,GNED,1401,001,Writing for Academic Success,32,Thursday,11:30,13:20,None,Elaine Mullen
+202101,GNED,1401,002,Writing for Academic Success,32,Tuesday,09:30,11:20,None,Elaine Mullen
+202101,GNED,1401,002,Writing for Academic Success,32,Thursday,09:30,11:20,None,Elaine Mullen
+202101,GNED,1401,003,Writing for Academic Success,32,Monday,None,None,None,Kelly Kaur
+202101,GNED,1401,003,Writing for Academic Success,32,Wednesday,None,None,None,Kelly Kaur
+202101,GNED,1401,004,Writing for Academic Success,32,Monday,None,None,None,Kelly Kaur
+202101,GNED,1401,004,Writing for Academic Success,32,Wednesday,None,None,None,Kelly Kaur
+202101,GNED,1401,005,Writing for Academic Success,32,Tuesday,15:30,17:20,None,Sharren Patterson
+202101,GNED,1401,005,Writing for Academic Success,32,Thursday,15:30,17:20,None,Sharren Patterson
+202101,GNED,1401,006,Writing for Academic Success,32,Monday,15:30,17:20,None,Terri Baker
+202101,GNED,1401,006,Writing for Academic Success,32,Wednesday,15:30,17:20,None,Terri Baker
+202101,GNED,1401,007,Writing for Academic Success,32,Wednesday,09:30,11:20,None,Jenna Stook
+202101,GNED,1401,007,Writing for Academic Success,32,Monday,None,None,None,Jenna Stook
+202101,GNED,1401,008,Writing for Academic Success,32,Tuesday,13:30,15:20,None,Deborah Bridge
+202101,GNED,1401,008,Writing for Academic Success,32,Thursday,13:30,15:20,None,Deborah Bridge
+202101,GNED,1401,009,Writing for Academic Success,32,Monday,14:00,15:00,None,Connie Luther
+202101,GNED,1401,009,Writing for Academic Success,32,Wednesday,14:00,15:00,None,Connie Luther
+202101,GNED,1401,010,Writing for Academic Success,32,Wednesday,12:00,13:50,None,Sara Earley
+202101,GNED,1401,010,Writing for Academic Success,32,Monday,None,None,None,Sara Earley
+202101,GNED,1401,011,Writing for Academic Success,32,Monday,10:00,11:50,None,Terri Baker
+202101,GNED,1401,011,Writing for Academic Success,32,Wednesday,10:00,11:50,None,Terri Baker
+202101,GNED,1401,012,Writing for Academic Success,32,Monday,16:00,17:50,None,Karen Overbye
+202101,GNED,1401,012,Writing for Academic Success,32,Wednesday,None,None,None,Karen Overbye
+202101,GNED,1401,013,Writing for Academic Success,32,Tuesday,12:00,13:50,None,Sharren Patterson
+202101,GNED,1401,013,Writing for Academic Success,32,Thursday,12:00,13:50,None,Sharren Patterson
+202101,GNED,1401,014,Writing for Academic Success,32,Tuesday,10:00,11:50,None,Sharren Patterson
+202101,GNED,1401,014,Writing for Academic Success,32,Thursday,10:00,11:50,None,Sharren Patterson
+202101,GNED,1401,015,Writing for Academic Success,32,Tuesday,None,None,None,Janine Falck
+202101,GNED,1401,015,Writing for Academic Success,32,Thursday,None,None,None,Janine Falck
+202101,GNED,1401,016,Writing for Academic Success,32,Thursday,14:00,15:15,None,Jill Boettger
+202101,GNED,1401,016,Writing for Academic Success,32,Tuesday,None,None,None,Jill Boettger
+202101,GNED,1401,017,Writing for Academic Success,32,Monday,09:00,10:00,None,Connie Luther
+202101,GNED,1401,017,Writing for Academic Success,32,Wednesday,09:00,10:00,None,Connie Luther
+202101,GNED,1401,018,Writing for Academic Success,32,Tuesday,None,None,None,Janine Falck
+202101,GNED,1401,018,Writing for Academic Success,32,Thursday,None,None,None,Janine Falck
+202101,GNED,1401,019,Writing for Academic Success,32,Tuesday,14:30,16:20,None,Elaine Mullen
+202101,GNED,1401,019,Writing for Academic Success,32,Thursday,14:30,16:20,None,Elaine Mullen
+202101,GNED,1401,020,Writing for Academic Success,32,Tuesday,10:30,12:20,None,Deborah Bridge
+202101,GNED,1401,020,Writing for Academic Success,32,Thursday,10:30,12:20,None,Deborah Bridge
+202101,GNED,1401,021,Writing for Academic Success,32,Thursday,08:30,10:20,None,Jenna Stook
+202101,GNED,1401,021,Writing for Academic Success,32,Tuesday,None,None,None,Jenna Stook
+202101,GNED,1401,022,Writing for Academic Success,32,Monday,12:30,14:20,None,Erika Watters
+202101,GNED,1401,022,Writing for Academic Success,32,Wednesday,12:30,14:20,None,Erika Watters
+202101,GNED,1401,023,Writing for Academic Success,32,Monday,16:00,17:50,None,Erika Watters
+202101,GNED,1401,023,Writing for Academic Success,32,Wednesday,16:00,17:50,None,Erika Watters
+202101,GNED,1401,024,Writing for Academic Success,32,Wednesday,08:30,10:20,None,Mark Giles
+202101,GNED,1401,024,Writing for Academic Success,32,Monday,08:30,10:20,None,Mark Giles
+202101,GNED,1401,026,Writing for Academic Success,32,Tuesday,18:30,19:30,None,Sharon Ramraj-Thompson
+202101,GNED,1401,026,Writing for Academic Success,32,Thursday,18:30,19:30,None,Sharon Ramraj-Thompson
+202101,GNED,1404,001,Writing about Images,32,Wednesday,18:00,20:00,None,Connie Luther
+202101,GNED,1404,002,Writing about Images,32,Monday,08:30,09:50,None,Michael Sauve
+202101,GNED,1404,003,Writing about Images,32,Monday,14:30,15:50,None,Arti Modgill
+202101,GNED,1404,003,Writing about Images,32,Wednesday,14:30,15:50,None,Arti Modgill
+202101,GNED,1404,004,Writing about Images,32,Monday,08:30,09:50,None,Terri Baker
+202101,GNED,1404,004,Writing about Images,32,Wednesday,08:30,09:50,None,Terri Baker
+202101,GNED,1404,005,Writing about Images,32,Thursday,16:00,17:20,None,Carolyn Willekes
+202101,GNED,1404,006,Writing about Images,32,Thursday,14:30,15:30,None,Carolyn Willekes
+202101,GNED,1404,007,Writing about Images,32,Tuesday,13:00,14:20,None,Aaron Giovannone
+202101,GNED,1404,007,Writing about Images,32,Thursday,13:00,14:20,None,Aaron Giovannone
+202101,GNED,1404,008,Writing about Images,32,Tuesday,11:30,12:50,None,Laura Adamo
+202101,GNED,1404,009,Writing about Images,32,Tuesday,08:30,09:50,None,Ashley Nixon
+202101,GNED,1404,009,Writing about Images,32,Thursday,08:30,09:50,None,Ashley Nixon
+202101,GNED,1404,010,Writing about Images,32,Tuesday,10:00,11:20,None,Laura Adamo
+202101,GNED,1404,011,Writing about Images,32,Friday,11:00,12:20,None,Aaron Giovannone
+202101,GNED,1404,012,Writing about Images,32,Monday,16:00,17:20,None,Katherine Zelinsky
+202101,GNED,1404,013,Writing about Images,32,Wednesday,13:00,14:20,None,Gabrielle Broitman-Levandovsky
+202101,GNED,1404,017,Writing about Images,32,Wednesday,08:30,09:50,None,Ghada Alatrash
+202101,GNED,2302,001,Rethinking the Public Sphere,25,Monday,13:00,14:20,None,Tashi Tsering
+202101,GNED,2302,001,Rethinking the Public Sphere,25,Wednesday,13:00,14:20,None,Tashi Tsering
+202101,GNED,3201,001,The World in a Thousand Pages,35,Tuesday,18:00,20:50,None,Allison Dube
+202101,MATH,0115,001,Foundations of Mathematics I,40,Monday,12:30,14:20,None,Mohammed Kashanian
+202101,MATH,0115,001,Foundations of Mathematics I,40,Wednesday,12:30,14:20,None,Mohammed Kashanian
+202101,MATH,0115,001,Foundations of Mathematics I,40,Friday,12:30,13:20,None,Mohammed Kashanian
+202101,MATH,0115,002,Foundations of Mathematics I,40,Tuesday,18:00,20:20,None,Michael Tzanakos
+202101,MATH,0115,002,Foundations of Mathematics I,40,Thursday,18:00,20:20,None,Michael Tzanakos
+202101,MATH,0115,065,Foundations of Mathematics I,40,Monday,09:00,09:50,None,Flora Serchuk
+202101,MATH,0115,065,Foundations of Mathematics I,40,Wednesday,09:00,10:50,None,Flora Serchuk
+202101,MATH,0115,065,Foundations of Mathematics I,40,Friday,09:00,10:50,None,Flora Serchuk
+202101,MATH,0115,066,Foundations of Mathematics I,30,Monday,08:30,10:20,None,Michael Tzanakos
+202101,MATH,0115,066,Foundations of Mathematics I,30,Wednesday,08:30,10:20,None,Michael Tzanakos
+202101,MATH,0115,066,Foundations of Mathematics I,30,Friday,08:30,09:20,None,Michael Tzanakos
+202101,MATH,0115,465,Foundations of Mathematics I,40,Monday,10:00,10:50,None,Flora Serchuk
+202101,MATH,0115,466,Foundations of Mathematics I,30,Friday,09:30,10:20,None,Michael Tzanakos
+202101,MATH,0130,001,Pre-Calculus,49,Monday,08:30,10:20,None,Diana Sole Kahler
+202101,MATH,0130,001,Pre-Calculus,49,Wednesday,08:30,10:20,None,Diana Sole Kahler
+202101,MATH,0130,001,Pre-Calculus,49,Friday,08:30,09:20,None,Diana Sole Kahler
+202101,MATH,0130,002,Pre-Calculus,50,Tuesday,08:30,10:50,None,Diana Sole Kahler
+202101,MATH,0130,002,Pre-Calculus,50,Thursday,08:30,10:50,None,Diana Sole Kahler
+202101,MATH,0130,003,Pre-Calculus,50,Monday,12:30,14:20,None,Michael Tzanakos
+202101,MATH,0130,003,Pre-Calculus,50,Wednesday,12:30,14:20,None,Michael Tzanakos
+202101,MATH,0130,003,Pre-Calculus,50,Friday,12:30,13:20,None,Michael Tzanakos
+202101,MATH,0130,004,Pre-Calculus,50,Monday,16:00,18:20,None,Mohammed Kashanian
+202101,MATH,0130,004,Pre-Calculus,50,Wednesday,16:00,18:20,None,Mohammed Kashanian
+202101,MATH,0130,005,Pre-Calculus,50,Monday,18:00,20:20,None,Ahmad Azarnousch
+202101,MATH,0130,005,Pre-Calculus,50,Wednesday,18:00,20:20,None,Ahmad Azarnousch
+202101,MATH,0130,065,Pre-Calculus,1,Monday,08:30,10:20,None,Diana Sole Kahler
+202101,MATH,0130,065,Pre-Calculus,1,Wednesday,08:30,10:20,None,Diana Sole Kahler
+202101,MATH,0130,065,Pre-Calculus,1,Friday,08:30,09:20,None,Diana Sole Kahler
+202101,MATH,0132,001,Foundations of Mathematics II,50,Monday,12:30,14:20,None,Ahmad Azarnousch
+202101,MATH,0132,001,Foundations of Mathematics II,50,Wednesday,12:30,14:20,None,Ahmad Azarnousch
+202101,MATH,0132,001,Foundations of Mathematics II,50,Friday,12:30,13:20,None,Ahmad Azarnousch
+202101,MATH,0132,002,Foundations of Mathematics II,50,Monday,08:30,10:20,None,Mohammed Kashanian
+202101,MATH,0132,002,Foundations of Mathematics II,50,Wednesday,08:30,10:20,None,Mohammed Kashanian
+202101,MATH,0132,002,Foundations of Mathematics II,50,Friday,08:30,09:20,None,Mohammed Kashanian
+202101,MATH,0132,003,Foundations of Mathematics II,50,Tuesday,10:00,12:20,None,Mohammed Kashanian
+202101,MATH,0132,003,Foundations of Mathematics II,50,Thursday,10:00,12:20,None,Mohammed Kashanian
+202101,MATH,0132,004,Foundations of Mathematics II,50,Tuesday,18:00,20:20,None,Ahmad Azarnousch
+202101,MATH,0132,004,Foundations of Mathematics II,50,Thursday,18:00,20:20,None,Ahmad Azarnousch
+202101,MATH,0132,005,Foundations of Mathematics II,50,Tuesday,16:00,18:20,None,Diana Sole Kahler
+202101,MATH,0132,005,Foundations of Mathematics II,50,Thursday,16:00,18:20,None,Diana Sole Kahler
+202101,MATH,0132,065,Foundations of Mathematics II,30,Monday,11:00,12:50,None,Diana Sole Kahler
+202101,MATH,0132,065,Foundations of Mathematics II,30,Wednesday,11:00,12:50,None,Diana Sole Kahler
+202101,MATH,0132,065,Foundations of Mathematics II,30,Friday,11:00,11:50,None,Diana Sole Kahler
+202101,MATH,0132,465,Foundations of Mathematics II,30,Friday,10:00,10:50,None,Diana Sole Kahler
+202101,MATH,1102,001,Introduction to Geometry,35,Tuesday,13:00,14:20,None,Roberta La Haye
+202101,MATH,1102,001,Introduction to Geometry,35,Thursday,13:00,14:20,None,Roberta La Haye
+202101,MATH,1103,001,Intro. Statistical Reasoning,35,Monday,11:30,12:50,None,Peter Zizler
+202101,MATH,1103,001,Intro. Statistical Reasoning,35,Wednesday,11:30,12:50,None,Peter Zizler
+202101,MATH,1200,001,Calculus for Scientists I,48,Monday,14:30,15:50,None,Ganesh Bhandari
+202101,MATH,1200,001,Calculus for Scientists I,48,Wednesday,14:30,15:50,None,Ganesh Bhandari
+202101,MATH,1200,001,Calculus for Scientists I,48,Tuesday,14:30,15:20,None,Ganesh Bhandari
+202101,MATH,1200,002,Calculus for Scientists I,48,Wednesday,10:00,11:20,None,Laura Marik
+202101,MATH,1200,002,Calculus for Scientists I,48,Friday,10:00,11:20,None,Laura Marik
+202101,MATH,1200,002,Calculus for Scientists I,48,Thursday,10:00,10:50,None,Laura Marik
+202101,MATH,1200,003,Calculus for Scientists I,48,Tuesday,16:00,17:20,None,Ian Lovatt
+202101,MATH,1200,003,Calculus for Scientists I,48,Thursday,16:00,17:20,None,Ian Lovatt
+202101,MATH,1200,003,Calculus for Scientists I,48,Friday,16:00,16:50,None,Ian Lovatt
+202101,MATH,1200,004,Calculus for Scientists I,48,Monday,16:00,17:20,None,Laura Marik
+202101,MATH,1200,004,Calculus for Scientists I,48,Wednesday,16:00,17:20,None,Laura Marik
+202101,MATH,1200,004,Calculus for Scientists I,48,Tuesday,16:00,16:50,None,Laura Marik
+202101,MATH,1200,401,Calculus for Scientists I,24,Tuesday,12:00,12:50,None,Ganesh Bhandari
+202101,MATH,1200,402,Calculus for Scientists I,24,Tuesday,13:00,13:50,None,Ganesh Bhandari
+202101,MATH,1200,403,Calculus for Scientists I,24,Thursday,12:30,13:20,None,Laura Marik
+202101,MATH,1200,404,Calculus for Scientists I,24,Thursday,13:30,14:20,None,Laura Marik
+202101,MATH,1200,405,Calculus for Scientists I,24,Wednesday,08:30,09:20,None,Ian Lovatt
+202101,MATH,1200,406,Calculus for Scientists I,24,Wednesday,09:30,10:20,None,Ian Lovatt
+202101,MATH,1200,407,Calculus for Scientists I,24,Thursday,15:00,15:50,None,Laura Marik
+202101,MATH,1200,408,Calculus for Scientists I,24,Thursday,16:00,16:50,None,Laura Marik
+202101,MATH,1203,001,Algebra for Scientists & Engr,45,Monday,11:30,12:50,None,Mariya Svishchuk
+202101,MATH,1203,001,Algebra for Scientists & Engr,45,Wednesday,11:30,12:50,None,Mariya Svishchuk
+202101,MATH,1203,002,Algebra for Scientists & Engr,45,Tuesday,08:30,09:50,None,Ashok Krishnamurthy
+202101,MATH,1203,002,Algebra for Scientists & Engr,45,Thursday,08:30,09:50,None,Ashok Krishnamurthy
+202101,MATH,1203,401,Algebra for Scientists & Engr,45,Tuesday,13:00,13:50,None,Mariya Svishchuk
+202101,MATH,1203,402,Algebra for Scientists & Engr,45,Tuesday,11:00,11:50,None,Ashok Krishnamurthy
+202101,MATH,1205,001,The Beauty of Mathematics,36,Tuesday,14:30,15:50,None,Indy Lagu
+202101,MATH,1205,001,The Beauty of Mathematics,36,Thursday,14:30,15:50,None,Indy Lagu
+202101,MATH,1205,002,The Beauty of Mathematics,36,Monday,13:00,14:20,None,Peter Zizler
+202101,MATH,1205,002,The Beauty of Mathematics,36,Wednesday,13:00,14:20,None,Peter Zizler
+202101,MATH,1505,001,Puzzling Adventures in Math,46,Tuesday,14:30,15:50,None,Brady Killough
+202101,MATH,1505,001,Puzzling Adventures in Math,46,Thursday,14:30,15:50,None,Brady Killough
+202101,MATH,1505,002,Puzzling Adventures in Math,46,Tuesday,08:30,09:50,None,Indy Lagu
+202101,MATH,1505,002,Puzzling Adventures in Math,46,Thursday,08:30,09:50,None,Indy Lagu
+202101,MATH,1505,401,Puzzling Adventures in Math,23,Thursday,13:30,14:20,None,Brady Killough
+202101,MATH,1505,402,Puzzling Adventures in Math,23,Friday,11:00,11:50,None,Brady Killough
+202101,MATH,1505,403,Puzzling Adventures in Math,23,Monday,09:30,10:20,None,Indy Lagu
+202101,MATH,1505,404,Puzzling Adventures in Math,23,Friday,09:00,09:50,None,Indy Lagu
+202101,MATH,2101,001,Abstract Algebra,25,Monday,11:30,12:50,None,Pamini Thangarajah
+202101,MATH,2101,001,Abstract Algebra,25,Wednesday,11:30,12:50,None,Pamini Thangarajah
+202101,MATH,2101,401,Abstract Algebra,25,Thursday,10:00,10:50,None,Pamini Thangarajah
+202101,MATH,2150,001,Higher Arithmetic,30,Tuesday,11:30,12:50,None,Indy Lagu
+202101,MATH,2150,001,Higher Arithmetic,30,Thursday,11:30,12:50,None,Indy Lagu
+202101,MATH,2200,001,Calculus for Scientists II,40,Monday,11:30,12:50,None,Brady Killough
+202101,MATH,2200,001,Calculus for Scientists II,40,Wednesday,11:30,12:50,None,Brady Killough
+202101,MATH,2200,002,Calculus for Scientists II,40,Monday,08:30,09:50,None,Pamini Thangarajah
+202101,MATH,2200,002,Calculus for Scientists II,40,Wednesday,08:30,09:50,None,Pamini Thangarajah
+202101,MATH,2200,401,Calculus for Scientists II,40,Monday,13:00,13:50,None,Brady Killough
+202101,MATH,2200,402,Calculus for Scientists II,40,Friday,08:30,09:20,None,Pamini Thangarajah
+202101,MATH,2233,001,Statistics for Biol Sciences,36,Monday,14:30,15:50,None,Shawn Liu
+202101,MATH,2233,001,Statistics for Biol Sciences,36,Wednesday,14:30,15:50,None,Shawn Liu
+202101,MATH,2233,002,Statistics for Biol Sciences,36,Tuesday,10:00,11:20,None,Ganesh Bhandari
+202101,MATH,2233,002,Statistics for Biol Sciences,36,Thursday,10:00,11:20,None,Ganesh Bhandari
+202101,MATH,2233,401,Statistics for Biol Sciences,36,Friday,08:30,10:20,None,Shawn Liu
+202101,MATH,2233,402,Statistics for Biol Sciences,36,Friday,14:30,16:20,None,Ganesh Bhandari
+202101,MATH,2234,001,Concepts of Mathematical Stats,40,Monday,10:30,12:20,None,Ashok Krishnamurthy
+202101,MATH,2234,001,Concepts of Mathematical Stats,40,Wednesday,10:30,12:20,None,Ashok Krishnamurthy
+202101,MATH,2234,501,Concepts of Mathematical Stats,40,Thursday,11:30,12:20,None,Ashok Krishnamurthy
+202101,MATH,2303,001,Topics in Applied Mathematics,30,Tuesday,13:00,14:20,None,Peter Zizler
+202101,MATH,2303,001,Topics in Applied Mathematics,30,Thursday,13:00,14:20,None,Peter Zizler
+202101,MATH,2303,501,Topics in Applied Mathematics,30,Wednesday,16:30,18:20,None,Peter Zizler
+202101,MATH,2333,001,Statistics for Life Sciences,40,Tuesday,16:00,17:20,None,Shawn Liu
+202101,MATH,2333,001,Statistics for Life Sciences,40,Thursday,16:00,17:20,None,Shawn Liu
+202101,MATH,2333,401,Statistics for Life Sciences,40,Tuesday,14:30,15:20,None,Shawn Liu
+202101,MATH,3200,001,Mathematical Methods,30,Monday,16:00,17:20,None,Mariya Svishchuk
+202101,MATH,3200,001,Mathematical Methods,30,Wednesday,16:00,17:20,None,Mariya Svishchuk
+202101,MATH,3200,401,Mathematical Methods,30,Thursday,11:30,12:20,None,Mariya Svishchuk
