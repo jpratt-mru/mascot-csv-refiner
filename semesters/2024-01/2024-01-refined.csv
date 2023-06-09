@@ -1,16 +1,16 @@
 term,subject,course,section,title,capacity,dow,start,end,room,instructor
 202401,COMP,1103,001,Introduction to Computers,50,Tuesday,08:30,09:50,W316,Alan Fedoruk
 202401,COMP,1103,001,Introduction to Computers,50,Thursday,08:30,09:50,W316,Alan Fedoruk
-202401,COMP,1103,002,Introduction to Computers,50,Monday,16:00,17:20,W316,TBA
-202401,COMP,1103,002,Introduction to Computers,50,Wednesday,16:00,17:20,W316,TBA
-202401,COMP,1103,003,Introduction to Computers,50,Monday,16:00,17:20,W322,TBA
-202401,COMP,1103,003,Introduction to Computers,50,Wednesday,16:00,17:20,W322,TBA
+202401,COMP,1103,002,Introduction to Computers,50,Monday,04:00,05:20,W316,TBA
+202401,COMP,1103,002,Introduction to Computers,50,Wednesday,04:00,05:20,W316,TBA
+202401,COMP,1103,003,Introduction to Computers,50,Monday,04:00,05:20,W322,TBA
+202401,COMP,1103,003,Introduction to Computers,50,Wednesday,04:00,05:20,W322,TBA
 202401,COMP,1103,501,Introduction to Computers,25,Wednesday,09:00,09:50,E203,Alan Fedoruk
 202401,COMP,1103,502,Introduction to Computers,25,Monday,09:00,09:50,B162,Alan Fedoruk
-202401,COMP,1103,503,Introduction to Computers,25,Friday,12:30,13:20,E203,TBA
-202401,COMP,1103,504,Introduction to Computers,25,Thursday,16:30,17:20,E203,TBA
-202401,COMP,1103,505,Introduction to Computers,25,Thursday,15:30,16:20,E203,TBA
-202401,COMP,1103,506,Introduction to Computers,25,Tuesday,15:30,16:20,E203,TBA
+202401,COMP,1103,503,Introduction to Computers,25,Friday,12:30,01:20,E203,TBA
+202401,COMP,1103,504,Introduction to Computers,25,Thursday,04:30,05:20,E203,TBA
+202401,COMP,1103,505,Introduction to Computers,25,Thursday,03:30,04:20,E203,TBA
+202401,COMP,1103,506,Introduction to Computers,25,Tuesday,03:30,04:20,E203,TBA
 202401,COMP,1502,001,Programming II: Object Oriented Programming,40,Monday,11:30,12:50,T235,Khosro Salmani
 202401,COMP,1502,001,Programming II: Object Oriented Programming,40,Wednesday,11:30,12:50,T235,Khosro Salmani
 202401,COMP,1502,002,Programming II: Object Oriented Programming,40,Tuesday,11:30,12:50,EB1006,Eric Chalmers
@@ -19,122 +19,122 @@ term,subject,course,section,title,capacity,dow,start,end,room,instructor
 202401,COMP,1502,003,Programming II: Object Oriented Programming,40,Wednesday,10:00,11:20,T133,TBA
 202401,COMP,1502,401,Programming II: Object Oriented Programming,20,Tuesday,10:00,10:50,B107,Khosro Salmani
 202401,COMP,1502,402,Programming II: Object Oriented Programming,20,Tuesday,11:00,11:50,B107,Khosro Salmani
-202401,COMP,1502,403,Programming II: Object Oriented Programming,20,Thursday,14:00,14:50,B107,Eric Chalmers
-202401,COMP,1502,404,Programming II: Object Oriented Programming,20,Thursday,15:00,15:50,B107,Eric Chalmers
+202401,COMP,1502,403,Programming II: Object Oriented Programming,20,Thursday,02:00,02:50,B107,Eric Chalmers
+202401,COMP,1502,404,Programming II: Object Oriented Programming,20,Thursday,03:00,03:50,B107,Eric Chalmers
 202401,COMP,1502,405,Programming II: Object Oriented Programming,20,Tuesday,12:00,12:50,B107,TBA
-202401,COMP,1502,406,Programming II: Object Oriented Programming,20,Tuesday,13:00,13:50,B107,TBA
+202401,COMP,1502,406,Programming II: Object Oriented Programming,20,Tuesday,01:00,01:50,B107,TBA
 202401,COMP,1502,501,Programming II: Object Oriented Programming,20,Thursday,10:00,10:50,B107,Khosro Salmani
 202401,COMP,1502,502,Programming II: Object Oriented Programming,20,Thursday,11:00,11:50,B107,Khosro Salmani
 202401,COMP,1502,503,Programming II: Object Oriented Programming,20,Friday,12:00,12:50,B107,Eric Chalmers
-202401,COMP,1502,504,Programming II: Object Oriented Programming,20,Friday,13:00,13:50,B107,Eric Chalmers
+202401,COMP,1502,504,Programming II: Object Oriented Programming,20,Friday,01:00,01:50,B107,Eric Chalmers
 202401,COMP,1502,505,Programming II: Object Oriented Programming,20,Friday,10:00,10:50,B107,TBA
 202401,COMP,1502,506,Programming II: Object Oriented Programming,20,Friday,11:00,11:50,B107,TBA
 202401,COMP,1633,001,Introduction to Computer Science II,40,Monday,10:00,11:20,T225,Charlotte Curtis
 202401,COMP,1633,001,Introduction to Computer Science II,40,Wednesday,10:00,11:20,T225,Charlotte Curtis
-202401,COMP,1633,002,Introduction to Computer Science II,40,Tuesday,16:00,17:20,T239,TBA
-202401,COMP,1633,002,Introduction to Computer Science II,40,Thursday,16:00,17:20,T239,TBA
+202401,COMP,1633,002,Introduction to Computer Science II,40,Tuesday,04:00,05:20,T239,TBA
+202401,COMP,1633,002,Introduction to Computer Science II,40,Thursday,04:00,05:20,T239,TBA
 202401,COMP,1633,401,Introduction to Computer Science II,20,Tuesday,10:00,10:50,EB1011,Charlotte Curtis
 202401,COMP,1633,401,Introduction to Computer Science II,20,Thursday,10:00,10:50,EB1011,Charlotte Curtis
 202401,COMP,1633,402,Introduction to Computer Science II,20,Tuesday,11:00,11:50,EB1011,Charlotte Curtis
 202401,COMP,1633,402,Introduction to Computer Science II,20,Thursday,11:00,11:50,EB1011,Charlotte Curtis
-202401,COMP,1633,403,Introduction to Computer Science II,20,Monday,15:30,16:20,B162,TBA
-202401,COMP,1633,403,Introduction to Computer Science II,20,Wednesday,15:30,16:20,B162,TBA
-202401,COMP,1633,404,Introduction to Computer Science II,20,Monday,13:30,14:20,B162,TBA
-202401,COMP,1633,404,Introduction to Computer Science II,20,Wednesday,13:30,14:20,B162,TBA
-202401,COMP,1701,001,Introduction to Problem Solving and Programming,60,Tuesday,13:00,14:20,W231,TBA
-202401,COMP,1701,001,Introduction to Problem Solving and Programming,60,Thursday,13:00,14:20,W231,TBA
+202401,COMP,1633,403,Introduction to Computer Science II,20,Monday,03:30,04:20,B162,TBA
+202401,COMP,1633,403,Introduction to Computer Science II,20,Wednesday,03:30,04:20,B162,TBA
+202401,COMP,1633,404,Introduction to Computer Science II,20,Monday,01:30,02:20,B162,TBA
+202401,COMP,1633,404,Introduction to Computer Science II,20,Wednesday,01:30,02:20,B162,TBA
+202401,COMP,1701,001,Introduction to Problem Solving and Programming,60,Tuesday,01:00,02:20,W231,TBA
+202401,COMP,1701,001,Introduction to Problem Solving and Programming,60,Thursday,01:00,02:20,W231,TBA
 202401,COMP,1701,401,Introduction to Problem Solving and Programming,20,Wednesday,12:00,12:50,B107,TBA
-202401,COMP,1701,402,Introduction to Problem Solving and Programming,20,Wednesday,15:00,15:50,B107,TBA
+202401,COMP,1701,402,Introduction to Problem Solving and Programming,20,Wednesday,03:00,03:50,B107,TBA
 202401,COMP,1701,403,Introduction to Problem Solving and Programming,20,Wednesday,08:30,09:20,B162,TBA
-202401,COMP,1701,501,Introduction to Problem Solving and Programming,20,Friday,14:00,14:50,B107,TBA
+202401,COMP,1701,501,Introduction to Problem Solving and Programming,20,Friday,02:00,02:50,B107,TBA
 202401,COMP,1701,502,Introduction to Problem Solving and Programming,20,Friday,10:00,10:50,B162,TBA
 202401,COMP,1701,503,Introduction to Problem Solving and Programming,20,Friday,08:30,09:20,B162,TBA
-202401,COMP,2001,001,Computer-Based Problem Solving for the Sciences,50,Monday,13:00,14:20,T107,Patrick Perri
-202401,COMP,2001,001,Computer-Based Problem Solving for the Sciences,50,Wednesday,13:00,14:20,T107,Patrick Perri
+202401,COMP,2001,001,Computer-Based Problem Solving for the Sciences,50,Monday,01:00,02:20,T107,Patrick Perri
+202401,COMP,2001,001,Computer-Based Problem Solving for the Sciences,50,Wednesday,01:00,02:20,T107,Patrick Perri
 202401,COMP,2001,401,Computer-Based Problem Solving for the Sciences,25,Tuesday,08:30,09:20,B162,Patrick Perri
 202401,COMP,2001,401,Computer-Based Problem Solving for the Sciences,25,Thursday,08:30,09:20,B162,Patrick Perri
 202401,COMP,2001,402,Computer-Based Problem Solving for the Sciences,25,Tuesday,09:30,10:20,B162,Patrick Perri
 202401,COMP,2001,402,Computer-Based Problem Solving for the Sciences,25,Thursday,09:30,10:20,B162,Patrick Perri
-202401,COMP,2008,001,Scientific Computing I: Modeling and Simulation,48,Tuesday,13:00,14:20,T223,Patrick Perri
-202401,COMP,2008,001,Scientific Computing I: Modeling and Simulation,48,Thursday,13:00,14:20,T223,Patrick Perri
+202401,COMP,2008,001,Scientific Computing I: Modeling and Simulation,48,Tuesday,01:00,02:20,T223,Patrick Perri
+202401,COMP,2008,001,Scientific Computing I: Modeling and Simulation,48,Thursday,01:00,02:20,T223,Patrick Perri
 202401,COMP,2008,401,Scientific Computing I: Modeling and Simulation,24,Friday,11:30,12:20,E203,Patrick Perri
 202401,COMP,2008,402,Scientific Computing I: Modeling and Simulation,24,Wednesday,11:30,12:20,E203,Patrick Perri
 202401,COMP,2503,001,Programming III: Data Structures,40,Tuesday,08:30,09:50,EB3126,TBA
 202401,COMP,2503,001,Programming III: Data Structures,40,Thursday,08:30,09:50,EB3126,TBA
 202401,COMP,2503,401,Programming III: Data Structures,20,Friday,11:00,11:50,B162,TBA
 202401,COMP,2503,402,Programming III: Data Structures,20,Friday,12:00,12:50,B162,TBA
-202401,COMP,2511,001,Web I: Client Development,40,Monday,14:30,15:50,T235,Yasaman Amannejad
-202401,COMP,2511,001,Web I: Client Development,40,Wednesday,14:30,15:50,T235,Yasaman Amannejad
+202401,COMP,2511,001,Web I: Client Development,40,Monday,02:30,03:50,T235,Yasaman Amannejad
+202401,COMP,2511,001,Web I: Client Development,40,Wednesday,02:30,03:50,T235,Yasaman Amannejad
 202401,COMP,2511,002,Web I: Client Development,40,Tuesday,10:00,11:20,B101,TBA
 202401,COMP,2511,002,Web I: Client Development,40,Thursday,10:00,11:20,B101,TBA
 202401,COMP,2511,003,Web I: Client Development,40,Tuesday,11:30,12:50,T107,TBA
 202401,COMP,2511,003,Web I: Client Development,40,Thursday,11:30,12:50,T107,TBA
 202401,COMP,2511,501,Web I: Client Development,20,Thursday,12:00,12:50,B107,Yasaman Amannejad
-202401,COMP,2511,502,Web I: Client Development,20,Thursday,13:00,13:50,B107,Yasaman Amannejad
+202401,COMP,2511,502,Web I: Client Development,20,Thursday,01:00,01:50,B107,Yasaman Amannejad
 202401,COMP,2511,503,Web I: Client Development,20,Wednesday,10:00,10:50,B107,TBA
 202401,COMP,2511,504,Web I: Client Development,20,Wednesday,11:00,11:50,B107,TBA
-202401,COMP,2511,505,Web I: Client Development,20,Wednesday,13:00,13:50,B107,TBA
-202401,COMP,2511,506,Web I: Client Development,20,Wednesday,14:00,14:50,B107,TBA
+202401,COMP,2511,505,Web I: Client Development,20,Wednesday,01:00,01:50,B107,TBA
+202401,COMP,2511,506,Web I: Client Development,20,Wednesday,02:00,02:50,B107,TBA
 202401,COMP,2521,001,Database I: Data Modeling and Query Languages,40,Monday,10:00,11:20,T241,Said Baadel
 202401,COMP,2521,001,Database I: Data Modeling and Query Languages,40,Wednesday,10:00,11:20,T241,Said Baadel
 202401,COMP,2521,002,Database I: Data Modeling and Query Languages,40,Monday,11:30,12:50,T241,Mingwei Gong
 202401,COMP,2521,002,Database I: Data Modeling and Query Languages,40,Wednesday,11:30,12:50,T241,Mingwei Gong
-202401,COMP,2521,401,Database I: Data Modeling and Query Languages,20,Thursday,16:00,16:50,B162,Said Baadel
-202401,COMP,2521,402,Database I: Data Modeling and Query Languages,20,Thursday,15:00,15:50,B162,Said Baadel
+202401,COMP,2521,401,Database I: Data Modeling and Query Languages,20,Thursday,04:00,04:50,B162,Said Baadel
+202401,COMP,2521,402,Database I: Data Modeling and Query Languages,20,Thursday,03:00,03:50,B162,Said Baadel
 202401,COMP,2521,403,Database I: Data Modeling and Query Languages,20,Tuesday,11:30,12:20,B162,Mingwei Gong
 202401,COMP,2521,404,Database I: Data Modeling and Query Languages,20,Tuesday,10:30,11:20,B162,Mingwei Gong
 202401,COMP,2531,001,Computer Architecture and Operating Systems,40,Monday,08:30,09:50,T133,Namrata Khemka
 202401,COMP,2531,001,Computer Architecture and Operating Systems,40,Wednesday,08:30,09:50,T133,Namrata Khemka
-202401,COMP,2531,501,Computer Architecture and Operating Systems,20,Tuesday,12:30,13:20,E203,Namrata Khemka
-202401,COMP,2531,502,Computer Architecture and Operating Systems,20,Tuesday,13:30,14:20,E203,Namrata Khemka
-202401,COMP,2541,001,Systems Analysis,40,Monday,13:00,14:20,T133,Said Baadel
-202401,COMP,2541,001,Systems Analysis,40,Wednesday,13:00,14:20,T133,Said Baadel
-202401,COMP,2541,002,Systems Analysis,40,Monday,16:00,17:20,T137,TBA
-202401,COMP,2541,002,Systems Analysis,40,Wednesday,16:00,17:20,T137,TBA
-202401,COMP,2541,401,Systems Analysis,20,Thursday,13:30,14:20,E203,Said Baadel
-202401,COMP,2541,402,Systems Analysis,20,Thursday,12:30,13:20,E203,Said Baadel
-202401,COMP,2541,403,Systems Analysis,20,Friday,16:00,16:50,B162,TBA
-202401,COMP,2541,404,Systems Analysis,20,Friday,15:00,15:50,B162,TBA
-202401,COMP,2631,001,Information Structures I,30,Monday,16:00,17:20,E131,TBA
-202401,COMP,2631,001,Information Structures I,30,Wednesday,16:00,17:20,E131,TBA
-202401,COMP,2631,401,Information Structures I,30,Wednesday,11:30,13:20,B162,TBA
+202401,COMP,2531,501,Computer Architecture and Operating Systems,20,Tuesday,12:30,01:20,E203,Namrata Khemka
+202401,COMP,2531,502,Computer Architecture and Operating Systems,20,Tuesday,01:30,02:20,E203,Namrata Khemka
+202401,COMP,2541,001,Systems Analysis,40,Monday,01:00,02:20,T133,Said Baadel
+202401,COMP,2541,001,Systems Analysis,40,Wednesday,01:00,02:20,T133,Said Baadel
+202401,COMP,2541,002,Systems Analysis,40,Monday,04:00,05:20,T137,TBA
+202401,COMP,2541,002,Systems Analysis,40,Wednesday,04:00,05:20,T137,TBA
+202401,COMP,2541,401,Systems Analysis,20,Thursday,01:30,02:20,E203,Said Baadel
+202401,COMP,2541,402,Systems Analysis,20,Thursday,12:30,01:20,E203,Said Baadel
+202401,COMP,2541,403,Systems Analysis,20,Friday,04:00,04:50,B162,TBA
+202401,COMP,2541,404,Systems Analysis,20,Friday,03:00,03:50,B162,TBA
+202401,COMP,2631,001,Information Structures I,30,Monday,04:00,05:20,E131,TBA
+202401,COMP,2631,001,Information Structures I,30,Wednesday,04:00,05:20,E131,TBA
+202401,COMP,2631,401,Information Structures I,30,Wednesday,11:30,01:20,B162,TBA
 202401,COMP,2633,001,Foundations of Software Engineering,30,Tuesday,08:30,09:50,B220,TBA
 202401,COMP,2633,001,Foundations of Software Engineering,30,Thursday,08:30,09:50,B220,TBA
-202401,COMP,2633,002,Foundations of Software Engineering,30,Monday,13:00,14:20,E206,TBA
-202401,COMP,2633,002,Foundations of Software Engineering,30,Wednesday,13:00,14:20,E206,TBA
+202401,COMP,2633,002,Foundations of Software Engineering,30,Monday,01:00,02:20,E206,TBA
+202401,COMP,2633,002,Foundations of Software Engineering,30,Wednesday,01:00,02:20,E206,TBA
 202401,COMP,2633,401,Foundations of Software Engineering,30,Thursday,10:30,12:20,B162,TBA
-202401,COMP,2633,402,Foundations of Software Engineering,30,Thursday,12:30,14:20,B162,TBA
+202401,COMP,2633,402,Foundations of Software Engineering,30,Thursday,12:30,02:20,B162,TBA
 202401,COMP,2655,001,Computing Machinery I,30,Monday,10:30,11:20,E206,TBA
 202401,COMP,2655,001,Computing Machinery I,30,Wednesday,10:30,11:20,E206,TBA
 202401,COMP,2655,001,Computing Machinery I,30,Friday,10:30,11:20,E206,TBA
 202401,COMP,2655,401,Computing Machinery I,30,Tuesday,09:30,10:20,E203,TBA
 202401,COMP,2655,401,Computing Machinery I,30,Thursday,09:30,10:20,E203,TBA
-202401,COMP,2659,001,Computing Machinery II,30,Monday,15:30,16:20,EA2070,Paul Pospisil
-202401,COMP,2659,001,Computing Machinery II,30,Tuesday,15:30,16:20,EA2070,Paul Pospisil
-202401,COMP,2659,001,Computing Machinery II,30,Thursday,15:30,16:20,EA2070,Paul Pospisil
-202401,COMP,2659,002,Computing Machinery II,30,Monday,14:30,15:20,E203,Marc Schroeder
-202401,COMP,2659,002,Computing Machinery II,30,Tuesday,14:30,15:20,E203,Marc Schroeder
-202401,COMP,2659,002,Computing Machinery II,30,Thursday,14:30,15:20,E203,Marc Schroeder
-202401,COMP,2659,401,Computing Machinery II,30,Wednesday,14:30,15:20,E203,Paul Pospisil
+202401,COMP,2659,001,Computing Machinery II,30,Monday,03:30,04:20,EA2070,Paul Pospisil
+202401,COMP,2659,001,Computing Machinery II,30,Tuesday,03:30,04:20,EA2070,Paul Pospisil
+202401,COMP,2659,001,Computing Machinery II,30,Thursday,03:30,04:20,EA2070,Paul Pospisil
+202401,COMP,2659,002,Computing Machinery II,30,Monday,02:30,03:20,E203,Marc Schroeder
+202401,COMP,2659,002,Computing Machinery II,30,Tuesday,02:30,03:20,E203,Marc Schroeder
+202401,COMP,2659,002,Computing Machinery II,30,Thursday,02:30,03:20,E203,Marc Schroeder
+202401,COMP,2659,401,Computing Machinery II,30,Wednesday,02:30,03:20,E203,Paul Pospisil
 202401,COMP,2659,402,Computing Machinery II,30,Tuesday,10:30,11:20,E203,Marc Schroeder
-202401,COMP,2659,501,Computing Machinery II,30,Friday,14:00,14:50,E203,Paul Pospisil
-202401,COMP,2659,502,Computing Machinery II,30,Friday,15:00,15:50,E203,Marc Schroeder
-202401,COMP,3012,001,Robotics,35,Tuesday,19:00,21:50,E203,TBA
-202401,COMP,3012,401,Robotics,35,Tuesday,17:00,17:50,E203,TBA
+202401,COMP,2659,501,Computing Machinery II,30,Friday,02:00,02:50,E203,Paul Pospisil
+202401,COMP,2659,502,Computing Machinery II,30,Friday,03:00,03:50,E203,Marc Schroeder
+202401,COMP,3012,001,Robotics,35,Tuesday,07:00,09:50,E203,TBA
+202401,COMP,3012,401,Robotics,35,Tuesday,05:00,05:50,E203,TBA
 202401,COMP,3309,001,Information Technology and Society,40,Tuesday,11:30,12:50,T239,Patrick Perri
 202401,COMP,3309,001,Information Technology and Society,40,Thursday,11:30,12:50,T239,Patrick Perri
-202401,COMP,3309,002,Information Technology and Society,40,Monday,13:00,14:20,T235,Randy Connolly
-202401,COMP,3309,002,Information Technology and Society,40,Wednesday,13:00,14:20,T235,Randy Connolly
+202401,COMP,3309,002,Information Technology and Society,40,Monday,01:00,02:20,T235,Randy Connolly
+202401,COMP,3309,002,Information Technology and Society,40,Wednesday,01:00,02:20,T235,Randy Connolly
 202401,COMP,3309,003,Information Technology and Society,40,Tuesday,08:30,09:50,T239,Randy Connolly
 202401,COMP,3309,003,Information Technology and Society,40,Thursday,08:30,09:50,T239,Randy Connolly
-202401,COMP,3512,001,Web II: Web Application Development,40,Monday,16:00,17:20,T239,TBA
-202401,COMP,3512,001,Web II: Web Application Development,40,Wednesday,16:00,17:20,T239,TBA
-202401,COMP,3512,401,Web II: Web Application Development,20,Friday,15:00,15:50,B107,TBA
-202401,COMP,3512,402,Web II: Web Application Development,20,Friday,16:00,16:50,B107,TBA
-202401,COMP,3523,001,Applied Machine Learning,40,Monday,13:00,14:20,E203,Yasaman Amannejad
-202401,COMP,3523,001,Applied Machine Learning,40,Wednesday,13:00,14:20,E203,Yasaman Amannejad
-202401,COMP,3523,501,Applied Machine Learning,20,Thursday,14:00,14:50,E147,Yasaman Amannejad
-202401,COMP,3523,502,Applied Machine Learning,20,Thursday,15:00,15:50,E147,Yasaman Amannejad
+202401,COMP,3512,001,Web II: Web Application Development,40,Monday,04:00,05:20,T239,TBA
+202401,COMP,3512,001,Web II: Web Application Development,40,Wednesday,04:00,05:20,T239,TBA
+202401,COMP,3512,401,Web II: Web Application Development,20,Friday,03:00,03:50,B107,TBA
+202401,COMP,3512,402,Web II: Web Application Development,20,Friday,04:00,04:50,B107,TBA
+202401,COMP,3523,001,Applied Machine Learning,40,Monday,01:00,02:20,E203,Yasaman Amannejad
+202401,COMP,3523,001,Applied Machine Learning,40,Wednesday,01:00,02:20,E203,Yasaman Amannejad
+202401,COMP,3523,501,Applied Machine Learning,20,Thursday,02:00,02:50,E147,Yasaman Amannejad
+202401,COMP,3523,502,Applied Machine Learning,20,Thursday,03:00,03:50,E147,Yasaman Amannejad
 202401,COMP,3532,001,System Administration and Maintenance,44,Tuesday,08:30,09:50,EA1053,Mingwei Gong
 202401,COMP,3532,001,System Administration and Maintenance,44,Thursday,08:30,09:50,EA1053,Mingwei Gong
 202401,COMP,3532,501,System Administration and Maintenance,22,Monday,09:00,09:50,B107,Mingwei Gong
@@ -147,33 +147,33 @@ term,subject,course,section,title,capacity,dow,start,end,room,instructor
 202401,COMP,3553,001,Human-Computer Interaction,40,Wednesday,11:30,12:50,T225,Namrata Khemka
 202401,COMP,3553,401,Human-Computer Interaction,20,Friday,09:30,10:20,E203,Namrata Khemka
 202401,COMP,3553,402,Human-Computer Interaction,20,Friday,10:30,11:20,E203,Namrata Khemka
-202401,COMP,3614,001,Algorithms and Complexity,30,Tuesday,14:30,15:50,B231,Charles Hepler
-202401,COMP,3614,001,Algorithms and Complexity,30,Thursday,14:30,15:50,B231,Charles Hepler
-202401,COMP,3614,401,Algorithms and Complexity,30,Wednesday,14:30,15:20,E125,Charles Hepler
-202401,COMP,3649,001,Programming Paradigms,30,Tuesday,16:00,17:20,E131,Marc Schroeder
-202401,COMP,3649,001,Programming Paradigms,30,Thursday,16:00,17:20,E131,Marc Schroeder
+202401,COMP,3614,001,Algorithms and Complexity,30,Tuesday,02:30,03:50,B231,Charles Hepler
+202401,COMP,3614,001,Algorithms and Complexity,30,Thursday,02:30,03:50,B231,Charles Hepler
+202401,COMP,3614,401,Algorithms and Complexity,30,Wednesday,02:30,03:20,E125,Charles Hepler
+202401,COMP,3649,001,Programming Paradigms,30,Tuesday,04:00,05:20,E131,Marc Schroeder
+202401,COMP,3649,001,Programming Paradigms,30,Thursday,04:00,05:20,E131,Marc Schroeder
 202401,COMP,3649,401,Programming Paradigms,30,Thursday,10:30,12:20,E203,Marc Schroeder
 202401,COMP,3654,001,Usable Privacy and Security,30,Monday,10:00,11:20,E203,Khosro Salmani
 202401,COMP,3654,001,Usable Privacy and Security,30,Wednesday,10:00,11:20,E203,Khosro Salmani
 202401,COMP,3654,501,Usable Privacy and Security,30,Monday,09:00,09:50,E203,Khosro Salmani
-202401,COMP,4513,001,Web III: Advanced Web Development,35,Monday,14:30,15:50,T231,Randy Connolly
-202401,COMP,4513,001,Web III: Advanced Web Development,35,Wednesday,14:30,15:50,T231,Randy Connolly
-202401,COMP,4522,001,Database-II: Advanced Databases,40,Monday,16:00,17:20,T131,TBA
-202401,COMP,4522,001,Database-II: Advanced Databases,40,Wednesday,16:00,17:20,T131,TBA
-202401,COMP,4543,001,Project Management and Quality Assurance,40,Thursday,18:00,20:50,E204,TBA
+202401,COMP,4513,001,Web III: Advanced Web Development,35,Monday,02:30,03:50,T231,Randy Connolly
+202401,COMP,4513,001,Web III: Advanced Web Development,35,Wednesday,02:30,03:50,T231,Randy Connolly
+202401,COMP,4522,001,Database-II: Advanced Databases,40,Monday,04:00,05:20,T131,TBA
+202401,COMP,4522,001,Database-II: Advanced Databases,40,Wednesday,04:00,05:20,T131,TBA
+202401,COMP,4543,001,Project Management and Quality Assurance,40,Thursday,06:00,08:50,E204,TBA
 202401,COMP,4630,001,Machine Learning,35,Monday,11:30,12:50,T231,Charlotte Curtis
 202401,COMP,4630,001,Machine Learning,35,Wednesday,11:30,12:50,T231,Charlotte Curtis
 202401,COMP,4630,401,Machine Learning,35,Tuesday,08:30,09:20,E203,Charlotte Curtis
-202401,COMP,4635,001,Distributed Systems,25,Tuesday,14:30,15:50,T130,Maryam Elahi
-202401,COMP,4635,001,Distributed Systems,25,Thursday,14:30,15:50,T130,Maryam Elahi
-202401,COMP,4635,401,Distributed Systems,25,Tuesday,13:00,13:50,B162,Maryam Elahi
-202401,MATH,1102,001,Introduction to Geometry,35,Tuesday,16:00,17:20,B231,Peter Zizler
-202401,MATH,1102,001,Introduction to Geometry,35,Thursday,16:00,17:20,B231,Peter Zizler
-202401,MATH,1103,001,Introduction to Statistical Reasoning,35,Monday,13:00,14:20,B231,Peter Zizler
-202401,MATH,1103,001,Introduction to Statistical Reasoning,35,Wednesday,13:00,14:20,B231,Peter Zizler
-202401,MATH,1200,001,Calculus for Scientists I,48,Monday,13:00,14:20,T223,Roberta La Haye
-202401,MATH,1200,001,Calculus for Scientists I,48,Wednesday,13:00,14:20,T223,Roberta La Haye
-202401,MATH,1200,001,Calculus for Scientists I,48,Tuesday,13:00,13:50,EA2057,Roberta La Haye
+202401,COMP,4635,001,Distributed Systems,25,Tuesday,02:30,03:50,T130,Maryam Elahi
+202401,COMP,4635,001,Distributed Systems,25,Thursday,02:30,03:50,T130,Maryam Elahi
+202401,COMP,4635,401,Distributed Systems,25,Tuesday,01:00,01:50,B162,Maryam Elahi
+202401,MATH,1102,001,Introduction to Geometry,35,Tuesday,04:00,05:20,B231,Peter Zizler
+202401,MATH,1102,001,Introduction to Geometry,35,Thursday,04:00,05:20,B231,Peter Zizler
+202401,MATH,1103,001,Introduction to Statistical Reasoning,35,Monday,01:00,02:20,B231,Peter Zizler
+202401,MATH,1103,001,Introduction to Statistical Reasoning,35,Wednesday,01:00,02:20,B231,Peter Zizler
+202401,MATH,1200,001,Calculus for Scientists I,48,Monday,01:00,02:20,T223,Roberta La Haye
+202401,MATH,1200,001,Calculus for Scientists I,48,Wednesday,01:00,02:20,T223,Roberta La Haye
+202401,MATH,1200,001,Calculus for Scientists I,48,Tuesday,01:00,01:50,EA2057,Roberta La Haye
 202401,MATH,1200,002,Calculus for Scientists I,48,Tuesday,11:30,12:50,T223,TBA
 202401,MATH,1200,002,Calculus for Scientists I,48,Thursday,11:30,12:50,T223,TBA
 202401,MATH,1200,002,Calculus for Scientists I,48,Wednesday,11:30,12:20,T223,TBA
@@ -191,13 +191,13 @@ term,subject,course,section,title,capacity,dow,start,end,room,instructor
 202401,MATH,1200,406,Calculus for Scientists I,24,Thursday,12:00,12:50,T241,TBA
 202401,MATH,1200,407,Calculus for Scientists I,24,Thursday,08:30,09:20,T230,TBA
 202401,MATH,1200,408,Calculus for Scientists I,24,Thursday,09:30,10:20,T230,TBA
-202401,MATH,1203,001,Linear Algebra for Scientists and Engineers,45,Wednesday,14:30,15:50,EA1067,TBA
-202401,MATH,1203,001,Linear Algebra for Scientists and Engineers,45,Friday,14:30,15:50,EA1067,TBA
+202401,MATH,1203,001,Linear Algebra for Scientists and Engineers,45,Wednesday,02:30,03:50,EA1067,TBA
+202401,MATH,1203,001,Linear Algebra for Scientists and Engineers,45,Friday,02:30,03:50,EA1067,TBA
 202401,MATH,1203,002,Linear Algebra for Scientists and Engineers,45,Wednesday,10:00,11:20,Y222,Roberta La Haye
 202401,MATH,1203,002,Linear Algebra for Scientists and Engineers,45,Friday,10:00,11:20,Y222,Roberta La Haye
 202401,MATH,1203,003,Linear Algebra for Scientists and Engineers,45,Monday,10:00,11:20,EA1024,Carlos Videla Rico
 202401,MATH,1203,003,Linear Algebra for Scientists and Engineers,45,Wednesday,10:00,11:20,EA1024,Carlos Videla Rico
-202401,MATH,1203,401,Linear Algebra for Scientists and Engineers,45,Thursday,14:30,15:20,EA1014,TBA
+202401,MATH,1203,401,Linear Algebra for Scientists and Engineers,45,Thursday,02:30,03:20,EA1014,TBA
 202401,MATH,1203,402,Linear Algebra for Scientists and Engineers,45,Tuesday,10:00,10:50,T223,Roberta La Haye
 202401,MATH,1203,403,Linear Algebra for Scientists and Engineers,45,Tuesday,10:00,10:50,EC1145,Carlos Videla Rico
 202401,MATH,1205,001,The Beauty of Mathematics,36,Tuesday,10:00,11:20,Y316,Indy Lagu
@@ -207,33 +207,33 @@ term,subject,course,section,title,capacity,dow,start,end,room,instructor
 202401,MATH,1271,001,Discrete Mathematics,40,Monday,08:30,09:50,T239,Carlos Videla Rico
 202401,MATH,1271,001,Discrete Mathematics,40,Wednesday,08:30,09:50,T239,Carlos Videla Rico
 202401,MATH,1271,401,Discrete Mathematics,20,Friday,12:00,12:50,E131,Carlos Videla Rico
-202401,MATH,1271,402,Discrete Mathematics,20,Tuesday,16:30,17:20,T234,Carlos Videla Rico
-202401,MATH,1505,001,Puzzling Adventures in Mathematics,40,Tuesday,14:30,15:50,Y316,Indy Lagu
-202401,MATH,1505,001,Puzzling Adventures in Mathematics,40,Thursday,14:30,15:50,Y316,Indy Lagu
-202401,MATH,1505,002,Puzzling Adventures in Mathematics,40,Monday,16:00,17:20,T241,TBA
-202401,MATH,1505,002,Puzzling Adventures in Mathematics,40,Wednesday,16:00,17:20,T241,TBA
+202401,MATH,1271,402,Discrete Mathematics,20,Tuesday,04:30,05:20,T234,Carlos Videla Rico
+202401,MATH,1505,001,Puzzling Adventures in Mathematics,40,Tuesday,02:30,03:50,Y316,Indy Lagu
+202401,MATH,1505,001,Puzzling Adventures in Mathematics,40,Thursday,02:30,03:50,Y316,Indy Lagu
+202401,MATH,1505,002,Puzzling Adventures in Mathematics,40,Monday,04:00,05:20,T241,TBA
+202401,MATH,1505,002,Puzzling Adventures in Mathematics,40,Wednesday,04:00,05:20,T241,TBA
 202401,MATH,1505,401,Puzzling Adventures in Mathematics,20,Friday,11:00,11:50,E125,Indy Lagu
-202401,MATH,1505,402,Puzzling Adventures in Mathematics,20,Friday,15:00,15:50,B231,Indy Lagu
+202401,MATH,1505,402,Puzzling Adventures in Mathematics,20,Friday,03:00,03:50,B231,Indy Lagu
 202401,MATH,1505,403,Puzzling Adventures in Mathematics,20,Friday,08:30,09:20,B231,TBA
 202401,MATH,1505,404,Puzzling Adventures in Mathematics,20,Monday,12:00,12:50,B231,TBA
 202401,MATH,2150,001,Higher Arithmetic,36,Tuesday,08:30,09:50,B231,Indy Lagu
 202401,MATH,2150,001,Higher Arithmetic,36,Thursday,08:30,09:50,B231,Indy Lagu
-202401,MATH,2200,001,Calculus for Scientists II,48,Tuesday,14:30,15:50,T223,Mariya Svishchuk
-202401,MATH,2200,001,Calculus for Scientists II,48,Thursday,14:30,15:50,T223,Mariya Svishchuk
-202401,MATH,2200,002,Calculus for Scientists II,48,Monday,16:00,17:20,T223,TBA
-202401,MATH,2200,002,Calculus for Scientists II,48,Wednesday,16:00,17:20,T223,TBA
-202401,MATH,2200,401,Calculus for Scientists II,24,Thursday,16:00,16:50,T223,Mariya Svishchuk
+202401,MATH,2200,001,Calculus for Scientists II,48,Tuesday,02:30,03:50,T223,Mariya Svishchuk
+202401,MATH,2200,001,Calculus for Scientists II,48,Thursday,02:30,03:50,T223,Mariya Svishchuk
+202401,MATH,2200,002,Calculus for Scientists II,48,Monday,04:00,05:20,T223,TBA
+202401,MATH,2200,002,Calculus for Scientists II,48,Wednesday,04:00,05:20,T223,TBA
+202401,MATH,2200,401,Calculus for Scientists II,24,Thursday,04:00,04:50,T223,Mariya Svishchuk
 202401,MATH,2200,402,Calculus for Scientists II,24,Thursday,11:00,11:50,E123,Mariya Svishchuk
-202401,MATH,2200,403,Calculus for Scientists II,24,Tuesday,12:30,13:20,B222,TBA
+202401,MATH,2200,403,Calculus for Scientists II,24,Tuesday,12:30,01:20,B222,TBA
 202401,MATH,2200,404,Calculus for Scientists II,24,Tuesday,11:00,11:50,E123,TBA
 202401,MATH,2233,001,Statistics for Biological Sciences,36,Monday,10:00,11:20,T135,Ganesh Bhandari
 202401,MATH,2233,001,Statistics for Biological Sciences,36,Wednesday,10:00,11:20,T135,Ganesh Bhandari
-202401,MATH,2233,002,Statistics for Biological Sciences,36,Monday,16:00,17:20,E125,TBA
-202401,MATH,2233,002,Statistics for Biological Sciences,36,Wednesday,16:00,17:20,E125,TBA
+202401,MATH,2233,002,Statistics for Biological Sciences,36,Monday,04:00,05:20,E125,TBA
+202401,MATH,2233,002,Statistics for Biological Sciences,36,Wednesday,04:00,05:20,E125,TBA
 202401,MATH,2233,003,Statistics for Biological Sciences,36,Tuesday,08:30,09:50,B222,TBA
 202401,MATH,2233,003,Statistics for Biological Sciences,36,Thursday,08:30,09:50,B222,TBA
-202401,MATH,2233,401,Statistics for Biological Sciences,36,Thursday,14:30,16:20,EB1011,Ganesh Bhandari
-202401,MATH,2233,402,Statistics for Biological Sciences,36,Friday,14:30,16:20,EB1011,TBA
+202401,MATH,2233,401,Statistics for Biological Sciences,36,Thursday,02:30,04:20,EB1011,Ganesh Bhandari
+202401,MATH,2233,402,Statistics for Biological Sciences,36,Friday,02:30,04:20,EB1011,TBA
 202401,MATH,2233,403,Statistics for Biological Sciences,36,Friday,08:30,10:20,EB1011,TBA
 202401,MATH,2234,001,Concepts of Mathematical Statistics,40,Monday,10:30,12:20,Y316,TBA
 202401,MATH,2234,001,Concepts of Mathematical Statistics,40,Wednesday,10:30,12:20,Y316,TBA
@@ -241,15 +241,15 @@ term,subject,course,section,title,capacity,dow,start,end,room,instructor
 202401,MATH,2234,002,Concepts of Mathematical Statistics,40,Thursday,10:30,12:20,E103,TBA
 202401,MATH,2234,501,Concepts of Mathematical Statistics,40,Tuesday,11:30,12:20,E203,TBA
 202401,MATH,2234,502,Concepts of Mathematical Statistics,40,Monday,11:30,12:20,E203,TBA
-202401,MATH,2303,001,Linear Algebra for Data Science,20,Tuesday,13:00,14:20,E131,Peter Zizler
-202401,MATH,2303,001,Linear Algebra for Data Science,20,Thursday,13:00,14:20,E131,Peter Zizler
-202401,MATH,2303,501,Linear Algebra for Data Science,20,Monday,14:30,16:20,B107,Peter Zizler
-202401,MATH,2311,001,Linear Algebra II,20,Tuesday,13:00,14:20,E123,Brady Killough
-202401,MATH,2311,001,Linear Algebra II,20,Thursday,13:00,14:20,E123,Brady Killough
-202401,MATH,2311,401,Linear Algebra II,20,Monday,14:30,15:20,B202,Brady Killough
+202401,MATH,2303,001,Linear Algebra for Data Science,20,Tuesday,01:00,02:20,E131,Peter Zizler
+202401,MATH,2303,001,Linear Algebra for Data Science,20,Thursday,01:00,02:20,E131,Peter Zizler
+202401,MATH,2303,501,Linear Algebra for Data Science,20,Monday,02:30,04:20,B107,Peter Zizler
+202401,MATH,2311,001,Linear Algebra II,20,Tuesday,01:00,02:20,E123,Brady Killough
+202401,MATH,2311,001,Linear Algebra II,20,Thursday,01:00,02:20,E123,Brady Killough
+202401,MATH,2311,401,Linear Algebra II,20,Monday,02:30,03:20,B202,Brady Killough
 202401,MATH,2333,001,Statistics for Life Sciences,40,Monday,08:30,09:50,Y318,Ganesh Bhandari
 202401,MATH,2333,001,Statistics for Life Sciences,40,Wednesday,08:30,09:50,Y318,Ganesh Bhandari
 202401,MATH,2333,401,Statistics for Life Sciences,40,Thursday,11:30,12:20,E147,Ganesh Bhandari
 202401,MATH,3200,001,Mathematical Methods,35,Wednesday,10:00,11:20,B231,Mariya Svishchuk
 202401,MATH,3200,001,Mathematical Methods,35,Friday,10:00,11:20,B231,Mariya Svishchuk
-202401,MATH,3200,401,Mathematical Methods,35,Monday,16:00,16:50,B231,Mariya Svishchuk
+202401,MATH,3200,401,Mathematical Methods,35,Monday,04:00,04:50,B231,Mariya Svishchuk

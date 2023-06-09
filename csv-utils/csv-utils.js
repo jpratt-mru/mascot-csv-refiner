@@ -37,4 +37,4 @@ const CsvUtils = {
 	},
 };
 
-module.exports = CsvUtils;
+export {CsvUtils};
